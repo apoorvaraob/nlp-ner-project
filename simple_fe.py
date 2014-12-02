@@ -1,5 +1,6 @@
 import string
 import re
+import nltk
 
 def read_file(filename):
     r"""Assume the file is the format
@@ -29,14 +30,28 @@ def extract_features_for_sentence1(tokens):
     N = len(tokens)
     feats_per_position = [set() for i in range(N)]
     for t in range(N):
+
+        #for context features
+        if t > 0:
+            w_before = clean_str(tokens[t-1])
+        else:
+            w_before = "none"
+        if t+1 < N:
+            w_after = clean_str(tokens[t+1])
+        else:
+            w_after = "none"
+
         w = clean_str(tokens[t])
         digitre = re.compile('.*[\d].*')
-        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i\tstripOut=%(stripOut)s\tlowercased=%(lowercased)s\tshape=%(shape)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "stripOut":strip_feature(w), "lowercased":w.lower(), "shape":shape_feature(w)})
+
+        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i\tstripOut=%(stripOut)s\tlowercased=%(lowercased)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "stripOut":strip_feature(w), "lowercased":w.lower(), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after)})
+
     return feats_per_position
 
 extract_features_for_sentence = extract_features_for_sentence1
 
 #Anything that is definitely not an NE
+#character affixes and some wordform features
 def strip_feature(t): 
     if re.match('#.*',t): #Hashtag
         return True
@@ -52,13 +67,13 @@ def strip_feature(t):
         return True
     elif re.match("'s", t): #Emoticons and symbols 
         return True
-    elif re.match("[<>.?!$@!%^;&*_-=+():|,'\"\\/\[\]pPD3]*", t): #Emoticons and symbols 
+    elif re.match("[<>.?!$@!%^;&*_=+():|,'\"\\/\[\]pPD3]*", t): #Emoticons and symbols
         return True
     elif re.match("^(?:(?:31(\/|-|\.)(?:0?[13578]|1[02]))\1|(?:(?:29|30)(\/|-|\.)(?:0?[1,3-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})$|^(?:29(\/|-|\.)0?2\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))$|^(?:0?[1-9]|1\d|2[0-8])(\/|-|\.)(?:(?:0?[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)?\d{2})$",t): #dates
         return True
     return False
 
-
+#shape feature
 def shape_feature(t):
     #reduce uppercase
     shape = re.sub(r'[A-Z]+','A',t)
@@ -69,6 +84,50 @@ def shape_feature(t):
     #reduce punctuations
     shape = re.sub(r'[^A-Za-z0-9]+','$',shape)
     return shape
+
+
+#additional pos tagging features
+def is_pos_tag_noun(t):
+    word = nltk.word_tokenize(t)
+    tag = nltk.pos_tag(word)
+    if tag in ['NNP','NNPS','NN','NNS']:
+        return True
+    else:
+        return False
+
+
+def pos_tag(t):
+    word = nltk.word_tokenize(t)
+    tag = nltk.pos_tag(word)
+    return tag[0][1]
+
+
+#positional offset feature - pos context
+def pos_tag_context(t_before, t, t_after):
+    word = nltk.word_tokenize(t)
+    before = nltk.word_tokenize(t_before)
+    after = nltk.word_tokenize(t_after)
+    tag = nltk.pos_tag(word)
+    tag_before = nltk.pos_tag(before)
+    tag_after = nltk.pos_tag(after)
+    tag_context = tag_before + tag + tag_after
+    tags = []
+    tags += [x[1] for x in tag_context]
+    tagsfeat = '-'.join(tags)
+    return tagsfeat
+
+#positional offset feature -  context - previous
+def prev_word(t_before, t):
+    prev_this = t_before+"-"+t
+    return prev_this
+
+
+#positional offset feature -  context - next
+def next_word(t, t_after):
+    this_next = t+"-"+t_after
+    return this_next
+
+
 
 def extract_features_for_file(input_file, output_file):
     """This runs the feature extractor on input_file, and saves the output to
