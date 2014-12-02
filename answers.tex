@@ -1,0 +1,61 @@
+\documentclass[twoside]{article}
+% \usepackage{courier}
+% \usepackage{tikz}
+% \usepackage{float}
+\usepackage{listings}
+% \usepackage{color}
+% \usetikzlibrary{arrows,automata}
+% \usepackage{listing}
+\title{CS 585: Project Milestone 1}
+\author{Armand Halbert and Aproova Rao Balevalachilu}
+\begin{document}
+\maketitle
+\begin{enumerate}
+    \item 
+We found that our classifier likes to guess O most of the time, as most items are non-named entities. Deciding what is a named entity is hard. We had trouble ourselves deciding what constituted a named entity.
+
+\begin{lstlisting}
+    
+Output of tageval:
+F = 0.0826,  Prec = 0.9032 (28/31),  Rec = 0.0433 (28/647)
+(1000 sentences, 19378 tokens, 647 gold spans, 31 predicted spans)
+\end{lstlisting}
+\newline
+\newline
+\item We used capital letters as a feature as whether or not it's a feature vector. This causes problems for words like Prison or Day. As for false negatives, Daily Mail is one example. Since it is seen as separate words, each word is a non-named entity.
+But together, they are a newspaper. So dealing with I terms needs to be improved. Chunking is one way to do so.
+\newline
+\newline
+\item From our feature set, we found that the model emphasizes words with capital letter tend to be given the highest weight. Symbols such as ! are given a larger weight. If an item does not have digits in it, the model is more likely to classify it as O(Non-Named Entity).
+\begin{lstlisting}
+    
+Output Snippet(ascending order)
+  (0) word=I'm --> O: 1.380365
+  (0) word=london --> B: 1.426504
+  (0) word=JFK --> B: 1.468127
+  (0) word=A --> O: 1.553408
+  (0) digits=0 --> O: 1.581296
+  (0) word=Chicago --> B: 1.611910
+  (0) word=facebook --> B: 1.886708
+  (0) word=Pope --> B: 2.014509
+  (0) word=YouTube --> B: 2.151073
+  (0) word=Twitter --> B: 2.206732
+  (0) word=RT --> O: 2.225394
+  (0) cap=0 --> O: 2.264817
+  (0) word=I --> O: 2.935141
+  (0) word=twitter --> B: 3.594446
+\end{lstlisting}
+
+\newline
+\newline
+\item False Negative: Daily Mail - Chunking would help identify named entities that span multiple words.
+False Positive: Prison - Check if a word is in the dictionary. If it is, it is more likely not to be a named entity.
+
+\newline
+\newline
+\item Mistake:
+I feel teamiphone(dev.txt) should be a named entity in context. It refers to a fandom rather than a literal team. 
+I also think that hashtags should be considered. Useful NLP data could be mined from considering the hashtags as named entities, and they could be used to improve named entities. 
+Mentions should be considered a named entity. @TimothyJMoore is a named entity, as they all refer to a specific twitter account. 
+\end{enumerate}
+\end{document}
