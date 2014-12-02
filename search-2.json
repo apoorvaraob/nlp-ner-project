@@ -1,0 +1,196 @@
+#https://www.googleapis.com/freebase/v1/search?query=armin&indent=true&filter=(all%20type:people)
+
+{
+  "status": "200 OK",
+  "result": [
+    {
+      "mid": "/m/0bfsbb",
+      "id": "/en/armin_zoggeler",
+      "name": "Armin Z\u00f6ggeler",
+      "notable": {
+        "name": "Luger",
+        "id": "/m/0653807"
+      },
+      "lang": "en",
+      "score": 20.055662
+    },
+    {
+      "mid": "/m/07j1q6",
+      "id": "/en/armin_vambery",
+      "name": "\u00c1rmin V\u00e1mb\u00e9ry",
+      "notable": {
+        "name": "Author",
+        "id": "/book/author"
+      },
+      "lang": "en",
+      "score": 20.033766
+    },
+    {
+      "mid": "/m/05f7nq9",
+      "id": "/en/armin_niederer",
+      "name": "Armin Niederer",
+      "notable": {
+        "name": "Olympic athlete",
+        "id": "/olympics/olympic_athlete"
+      },
+      "lang": "en",
+      "score": 15.072709
+    },
+    {
+      "mid": "/m/0653995",
+      "id": "/en/dominik_fischnaller",
+      "name": "Dominik Fischnaller",
+      "notable": {
+        "name": "Luger",
+        "id": "/m/0653807"
+      },
+      "lang": "en",
+      "score": 1.010192
+    },
+    {
+      "mid": "/m/07wr_v",
+      "id": "/en/miri_ben-ari",
+      "name": "Miri Ben-Ari",
+      "notable": {
+        "name": "Hip hop Artist",
+        "id": "/m/0glt670"
+      },
+      "lang": "en",
+      "score": 0.913773
+    },
+    {
+      "mid": "/m/0d0l91",
+      "id": "/en/ron_jeremy",
+      "name": "Ron Jeremy",
+      "notable": {
+        "name": "Pornographic actor",
+        "id": "/m/0g7nc"
+      },
+      "lang": "en",
+      "score": 0.615651
+    },
+    {
+      "mid": "/m/018dnt",
+      "id": "/en/colm_meaney",
+      "name": "Colm Meaney",
+      "notable": {
+        "name": "Actor",
+        "id": "/m/02hrh1q"
+      },
+      "lang": "en",
+      "score": 0.592082
+    },
+    {
+      "mid": "/m/051wwp",
+      "id": "/en/bob_balaban",
+      "name": "Bob Balaban",
+      "notable": {
+        "name": "Actor",
+        "id": "/m/02hrh1q"
+      },
+      "lang": "en",
+      "score": 0.589254
+    },
+    {
+      "mid": "/m/03hhd3",
+      "id": "/en/ron_perlman",
+      "name": "Ron Perlman",
+      "notable": {
+        "name": "Actor",
+        "id": "/m/02hrh1q"
+      },
+      "lang": "en",
+      "score": 0.510068
+    },
+    {
+      "mid": "/m/027s8q",
+      "id": "/en/wolf_biermann",
+      "name": "Wolf Biermann",
+      "notable": {
+        "name": "Folk Artist",
+        "id": "/m/02w4v"
+      },
+      "lang": "en",
+      "score": 0.484551
+    },
+    {
+      "mid": "/m/033qg5",
+      "id": "/en/joseph_roth",
+      "name": "Joseph Roth",
+      "notable": {
+        "name": "Novelist",
+        "id": "/m/02xhgwq"
+      },
+      "lang": "en",
+      "score": 0.473388
+    },
+    {
+      "mid": "/m/019gz",
+      "id": "/en/bram_stoker",
+      "name": "Bram Stoker",
+      "notable": {
+        "name": "Novelist",
+        "id": "/m/02xhgwq"
+      },
+      "lang": "en",
+      "score": 0.430641
+    },
+    {
+      "mid": "/m/081k8",
+      "id": "/en/william_shakespeare",
+      "name": "William Shakespeare",
+      "notable": {
+        "name": "Dramatist",
+        "id": "/m/02hv44_"
+      },
+      "lang": "en",
+      "score": 0.373104
+    },
+    {
+      "mid": "/m/0864t",
+      "id": "/en/wolfgang_pauli",
+      "name": "Wolfgang Pauli",
+      "notable": {
+        "name": "Physicist",
+        "id": "/m/05snw"
+      },
+      "lang": "en",
+      "score": 0.371575
+    },
+    {
+      "mid": "/m/06czq8",
+      "id": "/en/lionel_stander",
+      "name": "Lionel Stander",
+      "notable": {
+        "name": "Actor",
+        "id": "/m/02hrh1q"
+      },
+      "lang": "en",
+      "score": 0.349558
+    },
+    {
+      "mid": "/m/0592n",
+      "id": "/en/sir_stein",
+      "name": "Aurel Stein",
+      "notable": {
+        "name": "Archeologist",
+        "id": "/m/02h6pd1"
+      },
+      "lang": "en",
+      "score": 0.316363
+    },
+    {
+      "mid": "/m/01pmvy",
+      "id": "/en/benigno_aquino_iii",
+      "name": "Benigno \"Noynoy\" Aquino III",
+      "notable": {
+        "name": "Politician",
+        "id": "/government/politician"
+      },
+      "lang": "en",
+      "score": 0.246397
+    }
+  ],
+  "cost": 9,
+  "hits": 17
+}

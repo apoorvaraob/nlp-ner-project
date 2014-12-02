@@ -1,0 +1,229 @@
+#https://www.googleapis.com/freebase/v1/search?query=robot&indent=true&filter=(all%20type:animation)
+{
+  "status": "200 OK",
+  "result": [
+    {
+      "mid": "/m/01pj_8c",
+      "id": "/authority/myspace/imarobot",
+      "name": "IMA Robot",
+      "notable": {
+        "name": "Alternative Artist",
+        "id": "/m/016clz"
+      },
+      "lang": "en",
+      "score": 22.763542
+    },
+    {
+      "mid": "/m/04hzfm",
+      "id": "/authority/discogs/master/4338",
+      "name": "I Robot",
+      "notable": {
+        "name": "Concept album Album",
+        "id": "/m/023vk"
+      },
+      "lang": "en",
+      "score": 20.216778
+    },
+    {
+      "mid": "/m/0_9jv8",
+      "id": "/authority/musicbrainz/08508ce1-38a0-4170-afdb-dcaf61620d7b",
+      "name": "Robot",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/recording"
+      },
+      "lang": "en",
+      "score": 18.728088
+    },
+    {
+      "mid": "/m/0dgnngx",
+      "id": "/en/shit_robot",
+      "name": "Shit Robot",
+      "notable": {
+        "name": "Electronica Artist",
+        "id": "/m/0m0jc"
+      },
+      "lang": "en",
+      "score": 17.930664
+    },
+    {
+      "mid": "/m/03m882",
+      "id": "/en/the_aquabats",
+      "name": "The Aquabats",
+      "notable": {
+        "name": "Ska Artist",
+        "id": "/m/06rqw"
+      },
+      "lang": "en",
+      "score": 17.189560
+    },
+    {
+      "mid": "/m/019jlg4",
+      "id": "/authority/musicbrainz/0ee9a738-2e2b-452a-bef4-96ad322e1f91",
+      "name": "Robot Rock",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/recording"
+      },
+      "lang": "en",
+      "score": 16.639206
+    },
+    {
+      "mid": "/m/0fqtp2q",
+      "id": "/authority/myspace/robotkoch",
+      "name": "Robot Koch",
+      "notable": {
+        "name": "Musical Artist",
+        "id": "/music/artist"
+      },
+      "lang": "en",
+      "score": 16.327284
+    },
+    {
+      "mid": "/m/01ny1qv",
+      "id": "/en/giant_rabat",
+      "name": "Giant Robot",
+      "notable": {
+        "name": "Musical Group",
+        "id": "/music/musical_group"
+      },
+      "lang": "en",
+      "score": 15.140203
+    },
+    {
+      "mid": "/m/01m2bb1",
+      "id": "/en/giant_robot",
+      "name": "Giant Robot",
+      "notable": {
+        "name": "Experimental rock Album",
+        "id": "/m/08jyyk"
+      },
+      "lang": "en",
+      "score": 15.138987
+    },
+    {
+      "mid": "/m/0gz5hs",
+      "id": "/en/seth_green",
+      "name": "Seth Green",
+      "notable": {
+        "name": "Actor",
+        "id": "/m/02hrh1q"
+      },
+      "lang": "en",
+      "score": 15.050971
+    },
+    {
+      "mid": "/m/0fsxln3",
+      "id": "/authority/musicbrainz/04a01f84-fd7c-4769-bba5-6bfe1c0f8180",
+      "name": "Robot Boy",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/recording"
+      },
+      "lang": "en",
+      "score": 14.948115
+    },
+    {
+      "mid": "/m/0lspt3",
+      "id": "/authority/musicbrainz/0cd01aca-6801-47d8-9db1-91771bfa18fa",
+      "name": "I Robot",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/recording"
+      },
+      "lang": "en",
+      "score": 14.752674
+    },
+    {
+      "mid": "/m/0g6bt4s",
+      "id": "/authority/musicbrainz/c05a3c15-4986-4100-97ab-c378f0aac02c",
+      "name": "Robot",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/recording"
+      },
+      "lang": "en",
+      "score": 14.470420
+    },
+    {
+      "mid": "/m/0cnzzw5",
+      "id": "/authority/musicbrainz/4ceadf94-7682-4516-9c0e-4e21250bec9c",
+      "name": "Enthiran",
+      "notable": {
+        "name": "Soundtrack",
+        "id": "/music/soundtrack"
+      },
+      "lang": "en",
+      "score": 13.802129
+    },
+    {
+      "mid": "/m/0fswtl7",
+      "id": "/authority/musicbrainz/62f61eeb-a5da-4b9e-85cc-e6a68606b3f0",
+      "name": "Black Robot",
+      "notable": {
+        "name": "Rock Artist",
+        "id": "/m/06by7"
+      },
+      "lang": "en",
+      "score": 13.359285
+    },
+    {
+      "mid": "/m/01pbcry",
+      "id": "/en/ghost_of_the_robot",
+      "name": "Ghost of the Robot",
+      "notable": {
+        "name": "Alternative Artist",
+        "id": "/m/016clz"
+      },
+      "lang": "en",
+      "score": 13.293315
+    },
+    {
+      "mid": "/m/03hpr",
+      "id": "/en/harlan_ellison",
+      "name": "Harlan Ellison",
+      "notable": {
+        "name": "Novelist",
+        "id": "/m/02xhgwq"
+      },
+      "lang": "en",
+      "score": 13.223968
+    },
+    {
+      "mid": "/m/04n3pwk",
+      "id": "/en/walter_robot",
+      "name": "Walter Robot",
+      "notable": {
+        "name": "Music video director",
+        "id": "/music/music_video_director"
+      },
+      "lang": "en",
+      "score": 13.177070
+    },
+    {
+      "mid": "/m/07sbq9p",
+      "id": "/en/robot_zonda",
+      "name": "Robot Zonda",
+      "notable": {
+        "name": "Pop rock Artist",
+        "id": "/m/05bt6j"
+      },
+      "lang": "en",
+      "score": 12.933811
+    },
+    {
+      "mid": "/m/0f1dnrp",
+      "id": "/authority/musicbrainz/38e0741b-3047-4ba5-911d-338db6e3966e",
+      "name": "UFO Robot",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/recording"
+      },
+      "lang": "en",
+      "score": 12.890866
+    }
+  ],
+  "cursor": 20,
+  "cost": 18,
+  "hits": 3661
+}
