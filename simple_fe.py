@@ -31,12 +31,12 @@ def extract_features_for_sentence1(tokens):
     for t in range(N):
         w = clean_str(tokens[t])
         digitre = re.compile('.*[\d].*')
-        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i\tstripOut=%(stripOut)s\tlowercased=%(lowercased)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "stripOut":strip_feature(w), "lowercased":w.lower()})
+        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i\tstripOut=%(stripOut)s\tlowercased=%(lowercased)s\tshape=%(shape)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "stripOut":strip_feature(w), "lowercased":w.lower(), "shape":shape_feature(w)})
     return feats_per_position
 
 extract_features_for_sentence = extract_features_for_sentence1
 
-#Anything that is defintily not an NE
+#Anything that is definitely not an NE
 def strip_feature(t): 
     if re.match('#.*',t): #Hashtag
         return True
@@ -56,8 +56,19 @@ def strip_feature(t):
         return True
     elif re.match("^(?:(?:31(\/|-|\.)(?:0?[13578]|1[02]))\1|(?:(?:29|30)(\/|-|\.)(?:0?[1,3-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})$|^(?:29(\/|-|\.)0?2\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))$|^(?:0?[1-9]|1\d|2[0-8])(\/|-|\.)(?:(?:0?[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)?\d{2})$",t): #dates
         return True
-    return 0
+    return False
 
+
+def shape_feature(t):
+    #reduce uppercase
+    shape = re.sub(r'[A-Z]+','A',t)
+    #reduce lowercase
+    shape = re.sub(r'[a-z]+','a',shape)
+    #reduce numbers
+    shape = re.sub(r'[0-9]+','0',shape)
+    #reduce punctuations
+    shape = re.sub(r'[^A-Za-z0-9]+','$',shape)
+    return shape
 
 def extract_features_for_file(input_file, output_file):
     """This runs the feature extractor on input_file, and saves the output to
