@@ -31,6 +31,8 @@ def extract_features_for_sentence1(tokens):
     feats_per_position = [set() for i in range(N)]
     for t in range(N):
 
+        w = clean_str(tokens[t])
+
         #for context features
         if t > 0:
             w_before = clean_str(tokens[t-1])
@@ -41,7 +43,11 @@ def extract_features_for_sentence1(tokens):
         else:
             w_after = "none"
 
-        w = clean_str(tokens[t])
+
+        w = w.decode('utf-8')
+        w_before = w_before.decode('utf-8')
+        w_after = w_after.decode('utf-8')
+
         digitre = re.compile('.*[\d].*')
 
         feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i\tstripOut=%(stripOut)s\tlowercased=%(lowercased)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "stripOut":strip_feature(w), "lowercased":w.lower(), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after)})
@@ -62,6 +68,7 @@ def strip_feature(t):
     elif re.match('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)',t): #url
         return True
     elif re.match("[<>.?!$@!%^;&*_\-=+():|,'\"\\/\[\]pPD3]+", t): #Emoticons and symbols
+        #[0-9A-Za-z'\&\-\.\/()=:;]+
         return True
     elif re.match("'s", t): #Emoticons and symbols
         return True
@@ -134,9 +141,10 @@ def extract_features_for_file(input_file, output_file):
             feats = extract_features_for_sentence(tokens)
             for t in range(len(tokens)):
                 feats_tabsep = "\t".join(feats[t])
+                #feats_tabsep.encode('utf-8')
                 print>>output_fileobj, "%s\t%s" % (goldtags[t], feats_tabsep)
             print>>output_fileobj, ""
 
 extract_features_for_file("train.txt", "train.feats")
-extract_features_for_file("dev.txt", "dev.feats")
+#extract_features_for_file("dev.txt", "dev.feats")
 extract_features_for_file("test_nolabels.txt", "test_nolabels.feats")
