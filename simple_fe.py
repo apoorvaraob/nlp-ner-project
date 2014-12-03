@@ -143,3 +143,4 @@ def extract_features_for_file(input_file, output_file):
 
 extract_features_for_file("train.txt", "train.feats")
 extract_features_for_file("dev.txt", "dev.feats")
+extract_features_for_file("test_nolabels.txt", "test_nolabels.feats")
