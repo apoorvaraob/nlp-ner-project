@@ -44,11 +44,24 @@ def extract_features_for_sentence1(tokens):
             w_after = clean_str(tokens[t+1])
         else:
             w_after = "none"
+        
+        
+        if t > 1:
+            w_before_before = clean_str(tokens[t-2])
+        else:
+            w_before_before = "none"
+        if t+2 < N:
+            w_after_after = clean_str(tokens[t+2])
+        else:
+            w_after_after = "none"
+
 
 
         w = w.decode('utf-8')
         w_before = w_before.decode('utf-8')
         w_after = w_after.decode('utf-8')
+        w_before_before = w_before_before.decode('utf-8')
+        w_after_after = w_after_after.decode('utf-8')
 
         digitre = re.compile('.*[\d].*')
         
@@ -57,7 +70,7 @@ def extract_features_for_sentence1(tokens):
         for featureType in ["hashtag", "mention", "retweet","url","symoticon", "apossuffix", "date"]:
             stripstring += "\t" + featureType + "=" + str(strip_feature(featureType, w))
         
-        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i"+stripstring+"\tlowercased=%(lowercased)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "lowercased":w.lower(), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after)})
+        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i"+stripstring+"\tlowercased=%(lowercased)s\taffix1=%(affix1)s\tsuffix1=%(suffix1)s\taffix2=%(affix2)s\tsuffix2=%(suffix2)s\taffix3=%(affix3)s\tsuffix3=%(suffix3)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s\tprev_prev_word=%(prev_prev_word)s\tnext_next_word=%(next_next_word)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "lowercased":w.lower(), "affix1":char_affix(w,1), "suffix1":char_suffix(w,1), "affix2":char_affix(w,2), "suffix2":char_suffix(w,2), "affix3":char_affix(w,3), "suffix3":char_suffix(w,3), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after),"prev_prev_word":prev_word(w_before_before,w_before),"next_next_word":next_word(w_after,w_after_after)})
 
     return feats_per_position
 
@@ -128,16 +141,30 @@ def pos_tag_context(t_before, t, t_after):
 
 #positional offset feature -  context - previous
 def prev_word(t_before, t):
+    #t = unicode(t)
+    #t = t.encode('utf-8', errors='ignore')
+    #t_before = unicode(t_before)
+    #t_before = t_before.encode('utf-8', errors='ignore')
     prev_this = t_before+"-"+t
     return prev_this
 
 
 #positional offset feature -  context - next
 def next_word(t, t_after):
+    #t = unicode(t)
+    #t = t.encode('utf-8', errors='ignore')
+    #t_after = unicode(t_after)
+    #t_after = t_after.encode('utf-8', errors='ignore')
     this_next = t+"-"+t_after
     return this_next
 
+def char_affix(t,x):
+    return t[0:x]
 
+def char_suffix(t,x):
+    length = len(t)
+    last = length-x
+    return t[last:]
 
 def extract_features_for_file(input_file, output_file):
     """This runs the feature extractor on input_file, and saves the output to

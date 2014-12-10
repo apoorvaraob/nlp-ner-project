@@ -15,7 +15,7 @@ O	ILY	?
 O	🍰🍰🍰🍰🍰	?
 O	60	?
 	
-O	God	?
+B	God	?
 O	will	?
 O	not	?
 O	send	?
@@ -33,7 +33,7 @@ O	our	?
 O	breath	?
 O	for	?
 O	the	?
-O	Savior	?
+B	Savior	?
 O	.	?
 	
 O	“	?
@@ -60,9 +60,9 @@ O	yourself	?
 O	RT	?
 O	@PixFromHistory	?
 O	:	?
-O	Osama	?
-O	Bin	?
-O	Laden	?
+B	Osama	?
+I	Bin	?
+I	Laden	?
 O	and	?
 O	his	?
 O	judo	?
@@ -177,7 +177,7 @@ O	let	?
 O	you	?
 O	down	?
 O	,	?
-O	God	?
+B	God	?
 O	never	?
 O	does	?
 O	.	?
@@ -311,8 +311,8 @@ O	view	?
 O	park	?
 O	students	?
 	
-O	Vanessa	?
-O	Lane	?
+B	Vanessa	?
+I	Lane	?
 O	and	?
 B	Victoria	?
 I	Sweet	?
@@ -536,7 +536,7 @@ O	day	?
 O	:	?
 O	eating	?
 O	a	?
-O	Carlos	?
+B	Carlos	?
 O	bakery	?
 O	lobster	?
 O	tail	?
@@ -580,7 +580,7 @@ O	:	?
 O	Tom	?
 O	on	?
 O	Saturday	?
-O	Kitchen	?
+B	Kitchen	?
 O	07/06/14	?
 O	http://t.co/26XmX1jDf0	?
 	
@@ -1080,8 +1080,8 @@ O	http://t.co/zuqWThnZNu	?
 O	Check	?
 O	out	?
 O	our	?
-B	HashTag	?
-I	Search	?
+O	HashTag	?
+O	Search	?
 O	too	?
 O	.	?
 	
@@ -1095,7 +1095,7 @@ O	"	?
 O	Israel	?
 O	"	?
 O	said	?
-O	Hamas	?
+B	Hamas	?
 O	kidnapped	?
 O	3	?
 O	settlers	?
@@ -1147,7 +1147,7 @@ O	them	?
 O	anything	?
 	
 O	Does	?
-O	twitter	?
+B	twitter	?
 O	jail	?
 O	still	?
 O	exist	?
@@ -1206,8 +1206,8 @@ O	no	?
 O	difference	?
 O	.	?
 O	@turquoisefest	?
-B	Turquoise	?
-I	Fest	?
+O	Turquoise	?
+O	Fest	?
 O	2014	?
 O	#harmonyoflove	?
 O	#chicago	?
@@ -1337,7 +1337,7 @@ O	Victoria's	?
 O	Secret	?
 O	?	?
 O	If	?
-O	Belo	?
+B	Belo	?
 O	touches	?
 O	my	?
 O	skin	?
@@ -1616,9 +1616,9 @@ O	https://t.co/dma6HCu97t	?
 O	#Happy7thAnniversaryLMFAO	?
 	
 O	@TaylorLatimer	?
-O	UR	?
-O	A	?
-O	GOD	?
+B	UR	?
+I	A	?
+I	GOD	?
 O	🙌😭😂	?
 	
 O	“	?
@@ -1755,8 +1755,8 @@ O	today	?
 O	!	?
 O	From	?
 O	12-8	?
-O	Destiny	?
-O	City	?
+B	Destiny	?
+I	City	?
 O	Comics	?
 O	has	?
 O	their	?
@@ -2058,7 +2058,7 @@ O	new	?
 O	photo	?
 O	to	?
 B	Facebook	?
-I	http://t.co/1wVHg835Rq	?
+O	http://t.co/1wVHg835Rq	?
 	
 O	Won't	?
 O	be	?
@@ -2239,8 +2239,8 @@ O	Last	?
 O	(	?
 O	recap	?
 O	)	?
-B	Hell	?
-I	Print	?
+O	Hell	?
+O	Print	?
 O	2014	?
 	
 O	RT	?
@@ -2396,7 +2396,7 @@ O	?	?
 O	#B4BY	?
 	
 O	Free	?
-O	Halloween	?
+B	Halloween	?
 O	themes	?
 O	for	?
 O	@TouchPal	?
@@ -2504,9 +2504,9 @@ O	if	?
 O	you	?
 O	got	?
 O	your	?
-O	EDC	?
-O	Las	?
-O	Vegas	?
+B	EDC	?
+I	Las	?
+I	Vegas	?
 O	tix	?
 O	today	?
 O	like	?
@@ -2515,7 +2515,7 @@ O	!!!!	?
 O	”	?
 O	LMAO	?
 O	bye	?
-O	Milton	?
+B	Milton	?
 	
 O	RT	?
 O	@kamilka1234	?
@@ -2565,8 +2565,8 @@ O	️💕	?
 O	RT	?
 O	@shanegboa	?
 O	:	?
-O	San	?
-O	Antonio	?
+B	San	?
+I	Antonio	?
 O	July	?
 O	dates	?
 O	!	?
@@ -2688,7 +2688,7 @@ O	@carterreynolds	?
 O	look	?
 O	at	?
 O	this	?
-O	Carter	?
+B	Carter	?
 	
 O	RT	?
 O	@keyarria1012	?
@@ -2696,10 +2696,10 @@ O	:	?
 O	I	?
 O	Want	?
 O	To	?
-B	Go	?
-I	See	?
-I	Paranormal	?
-I	Activity	?
+O	Go	?
+O	See	?
+O	Paranormal	?
+O	Activity	?
 	
 O	RT	?
 O	@coolkidkay__	?
@@ -2764,14 +2764,14 @@ O	:	?
 O	30	?
 O	of	?
 O	the	?
-B	Hottest	?
-I	Cosplay	?
-I	Girls	?
-I	You	?
-I	Will	?
-I	Ever	?
-I	See	?
-I	Fav	?
+O	Hottest	?
+O	Cosplay	?
+O	Girls	?
+O	You	?
+O	Will	?
+O	Ever	?
+O	See	?
+O	Fav	?
 O	for	?
 O	:	?
 O	=	?
@@ -2936,7 +2936,7 @@ O	Here	?
 O	For	?
 O	A	?
 O	Ugly	?
-O	Nigga	?
+B	Nigga	?
 O	😒😔	?
 	
 O	Мои	?
@@ -2979,11 +2979,11 @@ O	RT	?
 O	@RealSexRaw	?
 O	:	?
 O	The	?
-B	Weirdest	?
-I	Things	?
-I	Sold	?
-I	On	?
-I	EBay	?
+O	Weirdest	?
+O	Things	?
+O	Sold	?
+O	On	?
+O	EBay	?
 O	http://t.co/h1Mnpdh6HS	?
 	
 O	@_deejayyP	?
@@ -2992,7 +2992,7 @@ O	a	?
 O	heat	?
 O	fan	?
 O	,	?
-O	LeBron	?
+B	LeBron	?
 O	fan	?
 O	my	?
 O	friend	?
@@ -3290,7 +3290,7 @@ O	None	?
 O	.	?
 O	Nothing	?
 O	.	?
-O	Nada	?
+B	Nada	?
 O	.	?
 O	Can't	?
 O	do	?
@@ -3678,8 +3678,8 @@ O	http://t.co/NegST934y7	?
 	
 O	Mayhem	?
 O	-	?
-O	Freezing	?
-O	Moon	?
+B	Freezing	?
+I	Moon	?
 O	(	?
 O	at	?
 O	Wacken	?
@@ -3690,10 +3690,10 @@ O	http://t.co/uLP8q3HgJf	?
 O	via	?
 O	@YouTube	?
 	
-B	Apple	?
-I	Pay	?
-I	Competitor	?
-I	CurrentC	?
+O	Apple	?
+O	Pay	?
+O	Competitor	?
+B	CurrentC	?
 I	Hacked	?
 O	,	?
 B	Email	?
@@ -3735,7 +3735,7 @@ O	beautiful	?
 O	,	?
 O	My	?
 O	January	?
-O	Jones	?
+B	Jones	?
 O	.	?
 O	Oh	?
 O	you	?
@@ -3968,7 +3968,7 @@ O	Internet	?
 O	.........	?
 	
 O	"	?
-O	God	?
+B	God	?
 O	damn	?
 O	these	?
 O	hockey	?
@@ -4130,8 +4130,8 @@ O	Standards	?
 O	for	?
 B	Export	?
 I	Credit	?
-O	and	?
-B	Political	?
+I	and	?
+I	Political	?
 I	Risk	?
 I	Insurance	?
 O	'	?
@@ -4323,8 +4323,8 @@ O	in	?
 O	the	?
 O	#iPad	?
 O	game	?
-O	The	?
-O	Tribez	?
+B	The	?
+I	Tribez	?
 O	!	?
 O	http://t.co/1UAowSG7Qp	?
 O	#ipadgames	?
@@ -4507,8 +4507,8 @@ O	…	?
 O	RT	?
 O	@Vanilla_So_Icey	?
 O	:	?
-B	Real	?
-I	Eyes	?
+O	Real	?
+B	Eyes	?
 I	Realize	?
 I	Real	?
 I	Highs	?
@@ -4626,7 +4626,7 @@ O	with	?
 O	simple	?
 O	words	?
 O	...	?
-O	God	?
+B	God	?
 O	give	?
 O	me	?
 O	force	?
@@ -4764,9 +4764,9 @@ O	@nflnetwork	?
 O	:	?
 O	.	?
 O	@floridastate	?
-O	QB	?
-O	Jameis	?
-O	Winston	?
+B	QB	?
+I	Jameis	?
+I	Winston	?
 O	vs	?
 O	...	?
 O	the	?
@@ -4850,7 +4850,7 @@ O	distrust	?
 O	for	?
 O	Pres	?
 O	.	?
-O	Obama	?
+B	Obama	?
 O	has	?
 O	allowed	?
 O	unfettered	?
@@ -4892,8 +4892,8 @@ O	.	?
 O	RT	?
 O	@MakingOfs	?
 O	:	?
-O	Liam	?
-O	Neeson	?
+B	Liam	?
+I	Neeson	?
 O	getting	?
 O	his	?
 O	shoes	?
@@ -4929,8 +4929,8 @@ O	Harmonizers	?
 O	&	?
 O	amp	?
 O	;	?
-O	Chelsea	?
-O	OTP	?
+B	Chelsea	?
+I	OTP	?
 O	&	?
 O	lt	?
 O	;3	?
@@ -5159,7 +5159,7 @@ O	quest	?
 O	'	?
 O	Destroy	?
 O	the	?
-O	Murlod	?
+B	Murlod	?
 O	...	?
 O	'	?
 O	in	?
@@ -5181,9 +5181,9 @@ O	wow	?
 	
 O	『	?
 O	#vine	?
-O	EPIC	?
-O	VINE	?
-O	Compilation	?
+B	EPIC	?
+I	VINE	?
+I	Compilation	?
 O	of	?
 O	February	?
 O	2014』	?
@@ -5309,8 +5309,8 @@ O	else	?
 O	!	?
 O	From	?
 O	:	?
-O	Larry	?
-O	Shippers	?
+B	Larry	?
+I	Shippers	?
 O	#BestFandom2014	?
 O	Directioners	?
 O	#MTVHottest	?
@@ -5348,7 +5348,7 @@ O	Seeking	?
 O	Normality	?
 O	'	?
 O	by	?
-O	SFMartha	?
+B	SFMartha	?
 O	(	?
 O	LSD	?
 O	,	?
@@ -5361,7 +5361,7 @@ O	Seeking	?
 O	Normality	?
 O	'	?
 O	by	?
-O	SFMa	?
+B	SFMa	?
 O	...	?
 O	http://t.co/JAB8tBBhDE	?
 O	#THZZRDKNG	?
@@ -5470,9 +5470,9 @@ O	Email	?
 O	Marketing	?
 O	Lives	?
 O	to	?
-B	Fight	?
-I	Another	?
-I	Day	?
+O	Fight	?
+O	Another	?
+O	Day	?
 O	http://t.co/9qfODu5Oy1	?
 O	#smb	?
 O	#marketing	?
@@ -5481,8 +5481,8 @@ O	Test	?
 O	E	?
 O	stack	?
 O	w/	?
-O	Deca	?
-O	Nandrolone	?
+B	Deca	?
+I	Nandrolone	?
 O	http://t.co/qtPwNn0Gqp	?
 	
 O	"	?
@@ -5548,7 +5548,7 @@ O	Its	?
 O	just	?
 O	tough	?
 O	for	?
-O	James	?
+B	James	?
 O	.	?
 O	Such	?
 O	a	?
@@ -5636,7 +5636,7 @@ B	New	?
 I	York	?
 I	City	?
 I	Landmarks	?
-I	NY	?
+B	NY	?
 I	Souvenir	?
 I	Medium	?
 I	Size	?
@@ -5647,7 +5647,7 @@ B	New	?
 I	York	?
 I	City	?
 I	Landmarks	?
-I	NY	?
+B	NY	?
 I	Souvenir	?
 I	Medium	?
 I	Size	?
@@ -5713,11 +5713,11 @@ O	#1	?
 O	:	?
 B	Catit	?
 I	Design	?
-I	Senses	?
-I	Replacement	?
-I	Water	?
-I	Filtering	?
-I	Cartridge	?
+O	Senses	?
+O	Replacement	?
+O	Water	?
+O	Filtering	?
+O	Cartridge	?
 O	,	?
 O	2-Pack	?
 O	(	?
@@ -5725,8 +5725,8 @@ O	4-Pack	?
 O	):	?
 B	Catit	?
 I	Design	?
-I	Senses	?
-I	Replacement	?
+O	Senses	?
+O	Replacement	?
 O	...	?
 O	http://t.co/0yZJs55ovi	?
 	
@@ -5813,7 +5813,7 @@ O	tackle	?
 O	to	?
 O	force	?
 O	a	?
-O	Nevada	?
+B	Nevada	?
 O	fourth	?
 O	down	?
 O	.	?
@@ -5943,8 +5943,8 @@ O	"	?
 O	Saving	?
 O	Grace	?
 O	at	?
-B	Guantanamo	?
-I	Bay	?
+O	Guantanamo	?
+O	Bay	?
 O	"	?
 O	http://t.co/Z6ipOnzbM7	?
 O	#TGDN	?
@@ -5983,11 +5983,11 @@ O	@cozmikfaerie	?
 O	a	?
 O	night	?
 O	in	?
-B	Torquay	?
+O	Torquay	?
 O	,	?
 O	then	?
-O	Port	?
-B	Isaac	?
+B	Port	?
+I	Isaac	?
 O	followed	?
 O	by	?
 O	somewhere	?
@@ -6177,8 +6177,8 @@ O	even	?
 O	NYT	?
 O	Violates	?
 O	Basic	?
-O	Journalism	?
-O	Rule	?
+B	Journalism	?
+I	Rule	?
 O	http://t.co/b3PPEc6Pu4	?
 	
 O	RT	?
@@ -6280,7 +6280,7 @@ I	Oldest	?
 I	Tag	?
 O	in	?
 B	Paris	?
-I	http://t.co/5Bbr3bSRUA	?
+O	http://t.co/5Bbr3bSRUA	?
 	
 O	RT	?
 O	@TeamTayDLautner	?
@@ -6309,7 +6309,7 @@ O	,	?
 O	4	?
 O	nights	?
 O	in	?
-O	Milan	?
+B	Milan	?
 O	and	?
 O	a	?
 O	day	?
@@ -6508,8 +6508,8 @@ O	Hair	?
 O	?	?
 	
 O	Apple	?
-O	iPod	?
-O	Touch	?
+B	iPod	?
+I	Touch	?
 O	A1367	?
 O	MC544LL/A	?
 O	32GB	?
@@ -6616,7 +6616,7 @@ O	"	?
 O	-	?
 O	@AdamSchefter	?
 O	on	?
-O	NFL	?
+B	NFL	?
 O	LIVE	?
 O	http://t	?
 O	.…	?
@@ -6660,8 +6660,8 @@ O	mine	?
 O	RT	?
 O	@NFLRT	?
 O	:	?
-O	Kaeptain	?
-O	America	?
+B	Kaeptain	?
+I	America	?
 O	with	?
 O	an	?
 O	awesome	?
@@ -6781,9 +6781,9 @@ B	Ivory	?
 I	Bone	?
 I	Fedora	?
 O	by	?
-B	Lack	?
-I	of	?
-I	Color	?
+O	Lack	?
+O	of	?
+O	Color	?
 O	http://t.co/qrW15oT1M3	?
 O	via	?
 O	@fancy	?
@@ -6824,9 +6824,9 @@ B	Cotton	?
 I	Solid	?
 I	White	?
 I	Newborn	?
-O	Baby/infant	?
-O	No	?
-B	Scratch	?
+I	Baby/infant	?
+I	No	?
+I	Scratch	?
 I	Mittens	?
 I	Gloves	?
 I	4	?
@@ -6931,8 +6931,8 @@ O	[	?
 B	NY	?
 I	Times	?
 O	]	?
-B	Bob	?
-I	Hoskins	?
+O	Bob	?
+O	Hoskins	?
 O	,	?
 O	British	?
 O	Actor	?
@@ -7067,8 +7067,8 @@ O	@njhoods	?
 O	:	?
 O	I	?
 O	think	?
-O	Nicki	?
-O	Minaj's	?
+B	Nicki	?
+I	Minaj's	?
 O	ass	?
 O	is	?
 O	bigger	?
@@ -7326,8 +7326,8 @@ O	…	?
 O	RT	?
 O	@vicegandako	?
 O	:	?
-O	Good	?
-B	LAFFternoon	?
+B	Good	?
+I	LAFFternoon	?
 I	Madlang	?
 I	People	?
 O	!!!!	?
@@ -7432,7 +7432,7 @@ O	X2822	?
 O	RT	?
 O	@0430alexu	?
 O	:	?
-O	JinMark	?
+B	JinMark	?
 O	the	?
 O	environment	?
 O	lovers	?
@@ -7454,11 +7454,11 @@ O	A.C.A.B.	?
 B	Mr.	?
 I	Nigeria	?
 O	,	?
-O	Emmanuel	?
-O	Ikubese	?
+B	Emmanuel	?
+I	Ikubese	?
 O	celebrates	?
-O	Nigeria’s	?
-O	Independence	?
+B	Nigeria’s	?
+I	Independence	?
 O	in	?
 O	new	?
 O	pictures	?
@@ -7558,10 +7558,10 @@ O	HOURS	?
 	
 O	Gorgeous	?
 O	Virgin	?
-B	Hair	?
-I	Review	?
-I	By	?
-I	Jazzy2Classy/	?
+O	Hair	?
+O	Review	?
+O	By	?
+B	Jazzy2Classy/	?
 I	Look	?
 O	Here	?
 O	!	?
@@ -7636,10 +7636,10 @@ O	http://t.co/pB1V9sRRgB	?
 O	RT	?
 O	@OMGFacts	?
 O	:	?
-B	White	?
-I	Temple	?
-I	of	?
-I	Chiang	?
+O	White	?
+O	Temple	?
+O	of	?
+B	Chiang	?
 I	Rai	?
 O	,	?
 O	Thailand	?
@@ -7659,7 +7659,7 @@ B	Kanye	?
 I	West	?
 I	Made	?
 O	In	?
-O	America	?
+B	America	?
 O	2014	?
 O	LA	?
 O	Full	?
@@ -7799,7 +7799,7 @@ O	@Walgreens	?
 O	:	?
 O	Hey	?
 O	,	?
-O	iPhone	?
+B	iPhone	?
 O	6	?
 O	and	?
 O	6	?
@@ -7874,7 +7874,7 @@ O	ily💚💚	?
 	
 O	Still	?
 O	not	?
-O	Christmas	?
+B	Christmas	?
 O	though	?
 O	.	?
 	
@@ -7883,13 +7883,13 @@ O	@mikaR_araG38	?
 O	:	?
 O	Hi	?
 O	sa	?
-O	mGa	?
+B	mGa	?
 O	aCtive	?
 O	Jan	?
 O	NewLy	?
 O	FP	?
 O	of	?
-O	DLSU	?
+B	DLSU	?
 O	FOLLOW	?
 O	~~~~	?
 O	|	?
@@ -7921,8 +7921,8 @@ O	TO	?
 O	OFFER	?
 O	#BelieveInSethRollins	?
 	
-O	Miami	?
-O	Heat	?
+B	Miami	?
+I	Heat	?
 B	NBA	?
 I	Flames	?
 I	Lightweight	?
@@ -8033,7 +8033,7 @@ O	on	?
 O	hunger	?
 O	strike	?
 O	in	?
-O	Iran	?
+B	Iran	?
 O	http://t.co/YhRAJ1yfYo	?
 O	#ipad	?
 O	#iphone	?
@@ -8209,7 +8209,7 @@ O	.	?
 	
 O	That	?
 O	black	?
-O	Iverson	?
+B	Iverson	?
 O	jersey	?
 O	was	?
 O	in	?
@@ -8415,7 +8415,7 @@ O	.	?
 O	”	?
 O	QUOTES	?
 O	BY	?
-O	NONNIE	?
+B	NONNIE	?
 O	http://t.co/axmflFQgnT	?
 O	#Ra	?
 O	…	?
@@ -8455,7 +8455,7 @@ O	hearings	?
 O	:	?
 O	BRUSSELS	?
 O	(	?
-O	Reuters	?
+B	Reuters	?
 O	)	?
 O	-	?
 O	The	?
@@ -8866,7 +8866,7 @@ O	??	?
 O	And	?
 O	how	?
 O	was	?
-O	Halloween	?
+B	Halloween	?
 O	in	?
 O	#Beirut	?
 O	…	?
@@ -9240,10 +9240,10 @@ I	VA	?
 I	Sheldeez	?
 O	7037428977	?
 O	1110	?
-O	Elden	?
-B	St.	?
+B	Elden	?
+I	St.	?
 I	Herndon	?
-O	VA	?
+I	VA	?
 O	http://t.co/WsQN4IY8om	?
 	
 O	RT	?
@@ -9403,14 +9403,14 @@ O	ON	?
 O	S+L	?
 O	TV	?
 O	:	?
-O	Christian	?
-O	Culture	?
+B	Christian	?
+I	Culture	?
 O	Series	?
 O	ft	?
 O	.	?
 O	Father	?
-O	Thomas	?
-O	Rosica	?
+B	Thomas	?
+I	Rosica	?
 O	http://t.co/6V1XX1ceqK	?
 O	#catholic	?
 O	#windsor	?
@@ -9461,7 +9461,7 @@ O	don’t	?
 O	care	?
 O	.	?
 O	–	?
-O	Elsa	?
+B	Elsa	?
 O	(	?
 O	Frozen	?
 O	)	?
@@ -9589,8 +9589,8 @@ O	TAKEN	?
 O	YOU	?
 O	ON	?
 O	A	?
-B	TACOS	?
-I	TOUR	?
+O	TACOS	?
+O	TOUR	?
 	
 O	@lil_kemo094	?
 O	shit	?
@@ -9618,9 +9618,9 @@ O	2	?
 O	year	?
 O	old	?
 	
-O	The	?
-O	Ig	?
-O	Nobels	?
+B	The	?
+I	Ig	?
+I	Nobels	?
 O	are	?
 O	out	?
 O	!	?
@@ -9693,11 +9693,11 @@ O	KURBA	?
 O	.	?
 O	RT	?
 O	FOR	?
-O	KARYLLE	?
+B	KARYLLE	?
 O	!	?
 O	FAV	?
 O	FOR	?
-O	KAYE	?
+B	KAYE	?
 O	!	?
 O	#EpicViceRylleWeek	?
 O	http://t.co/Y4eSjhHyuc	?
@@ -9819,9 +9819,9 @@ O	BOUT	?
 O	TO	?
 O	TURN	?
 O	UP	?
-B	DELHI	?
-I	STATE	?
-I	UNIVERSITY	?
+O	DELHI	?
+O	STATE	?
+O	UNIVERSITY	?
 	
 O	RT	?
 O	@Harry_Styles	?
@@ -9833,13 +9833,13 @@ O	called	?
 O	Alan	?
 O	?	?
 	
-O	Verse	?
-O	Muney	?
+B	Verse	?
+I	Muney	?
 O	|	?
-O	Sweet	?
-O	Jesus	?
+B	Sweet	?
+I	Jesus	?
 O	[	?
-O	Mixtape	?
+B	Mixtape	?
 O	]	?
 O	#SweetJesus	?
 O	http://t.co/5ZsxmhgDyW	?
@@ -10128,8 +10128,8 @@ O	She	?
 O	The	?
 O	People	?
 O	:	?
-O	Anne	?
-O	Frank	?
+B	Anne	?
+I	Frank	?
 O	at	?
 O	85	?
 O	:	?
@@ -10353,7 +10353,7 @@ O	and	?
 O	be	?
 O	patient	?
 O	and	?
-O	God	?
+B	God	?
 O	will	?
 O	always	?
 O	bring	?
@@ -10499,7 +10499,7 @@ O	team	?
 O	made	?
 O	up	?
 O	of	?
-O	Elvis	?
+B	Elvis	?
 O	impersonators	?
 O	http://t.co/35BRzDnInQ	?
 	
@@ -10609,8 +10609,8 @@ O	a	?
 O	potential	?
 O	move	?
 O	to	?
-O	the	?
-B	Premier	?
+B	the	?
+I	Premier	?
 I	League	?
 O	.	?
 O	(	?
@@ -10701,7 +10701,7 @@ O	o	?
 O	...	?
 O	More	?
 O	for	?
-O	Aquarius	?
+B	Aquarius	?
 O	http://t.co/sEGmF3TJQF	?
 	
 O	RT	?
@@ -10798,7 +10798,7 @@ O	a	?
 O	bitch	?
 	
 O	Happy	?
-O	Halloween	?
+B	Halloween	?
 O	to	?
 O	@Vagner_edHunter	?
 O	@RychRageShow	?
@@ -10853,8 +10853,8 @@ O	we	?
 O	call	?
 O	you	?
 O	'	?
-O	Erza	?
-O	Scarlet'	?
+B	Erza	?
+I	Scarlet'	?
 O	?	?
 O	It's	?
 O	the	?
@@ -10892,8 +10892,8 @@ O	d	?
 O	doing	?
 O	?	?
 	
-O	Jonathan	?
-O	Carter	?
+B	Jonathan	?
+I	Carter	?
 O	our	?
 O	Wide	?
 O	Receiver	?
@@ -10929,7 +10929,7 @@ O	~	?
 O	come	?
 O	on	?
 O	follow	?
-O	GA	?
+B	GA	?
 O	at	?
 O	@chatkpopersINA	?
 O	prize	?
@@ -10942,7 +10942,7 @@ O	lets	?
 O	go	?
 O	follow	?
 O	this	?
-O	GA	?
+B	GA	?
 O	^o^//	?
 O	#CKIEternityGA	?
 	
@@ -10969,7 +10969,7 @@ O	:	?
 O	Fine	?
 O	idea	?
 O	:	?
-O	iPhones	?
+B	iPhones	?
 O	stacked	?
 O	face	?
 O	down	?
@@ -11072,7 +11072,7 @@ O	showing	?
 O	his	?
 O	love	?
 O	for	?
-O	LFC	?
+B	LFC	?
 O	today	?
 O	!	?
 O	http://t.co/AeTDm4JFgh	?
@@ -11082,10 +11082,10 @@ O	http://t.co/7P0cWrD4dz	?
 	
 O	Introducing	?
 O	the	?
-O	Malangeli	?
+B	Malangeli	?
 O	-	?
-O	Christian	?
-O	Louboutin	?
+B	Christian	?
+I	Louboutin	?
 O	http://t.co/xENvkgwdSo	?
 O	on	?
 O	@bloglovin	?
@@ -11227,7 +11227,7 @@ O	Spooked	?
 O	by	?
 O	defaults	?
 O	,	?
-O	China	?
+B	China	?
 O	banks	?
 O	begin	?
 O	retreat	?
@@ -11249,7 +11249,7 @@ O	tired😴	?
 	
 O	So	?
 O	on	?
-B	Tumblr	?
+O	Tumblr	?
 O	,	?
 O	@Ms_Sashi	?
 O	asked	?
@@ -11337,8 +11337,8 @@ O	smdh	?
 O	RT	?
 O	@Ru_ranga	?
 O	:	?
-B	Donald	?
-I	Sterling	?
+O	Donald	?
+O	Sterling	?
 O	is	?
 O	a	?
 O	very	?
@@ -11502,7 +11502,7 @@ O	against	?
 O	malicious	?
 O	rumors	?
 O	about	?
-O	Sulli	?
+B	Sulli	?
 O	http://t.co/3TWCRQSK6U	?
 O	"	?
 O	WHATS	?
@@ -11515,7 +11515,7 @@ O	Everyone	?
 O	calm	?
 O	down	?
 O	,	?
-O	LeBron	?
+B	LeBron	?
 O	has	?
 O	this	?
 O	under	?
@@ -11547,7 +11547,7 @@ O	You	?
 O	-	?
 O	Live	?
 O	From	?
-O	Milan	?
+B	Milan	?
 O	2005	?
 O	-	?
 O	http://t.co/TqYfPKjVec	?
@@ -11650,7 +11650,7 @@ O	@DemaryiusT	?
 O	:	?
 O	Wanna	?
 O	thank	?
-O	God	?
+B	God	?
 O	for	?
 O	another	?
 O	day	?
@@ -11800,8 +11800,8 @@ O	RT	?
 O	@Jesus_Lester	?
 O	:	?
 O	MY	?
-O	WHOLE	?
-O	TL	?
+B	WHOLE	?
+I	TL	?
 O	.	?
 O	😫✋🙅	?
 O	http://t.co/xsgqAji4pY	?
@@ -11925,7 +11925,7 @@ O	@DrakeJoshQuotez	?
 O	:	?
 O	Drake	?
 O	and	?
-O	Josh	?
+B	Josh	?
 O	https://t.co/hQ0SdbZxpc	?
 	
 O	@TraapLordJose_	?
@@ -12033,7 +12033,7 @@ O	see	?
 O	ourselves	?
 O	the	?
 O	way	?
-O	God	?
+B	God	?
 O	does	?
 O	we	?
 O	can	?
@@ -12137,8 +12137,8 @@ O	and	?
 O	bravery	?
 O	in	?
 O	the	?
-O	Alonso	?
-O	Vettel	?
+B	Alonso	?
+I	Vettel	?
 O	battle	?
 O	today	?
 O	was	?
@@ -12160,9 +12160,9 @@ O	…	?
 	
 O	Xandria	?
 O	-	?
-O	Save	?
-O	My	?
-O	Life	?
+B	Save	?
+I	My	?
+I	Life	?
 O	:	?
 O	http://t.co/J2npF5QPzX	?
 	
@@ -12196,10 +12196,10 @@ O	RT	?
 O	@NoChillOnTinder	?
 O	:	?
 O	I	?
-B	Can't	?
-I	Find	?
-I	The	?
-I	Chill	?
+O	Can't	?
+O	Find	?
+O	The	?
+O	Chill	?
 O	😂	?
 O	😂	?
 O	https://t.co/Hpek6zJhYG	?
@@ -12244,7 +12244,7 @@ O	this	?
 O	gross	?
 O	stuff	?
 O	about	?
-O	Chipotle	?
+B	Chipotle	?
 O	food	?
 O	I'm	?
 O	still	?
@@ -12270,7 +12270,7 @@ O	FB	?
 O	fans	?
 O	or	?
 O	500	?
-O	twitter	?
+B	twitter	?
 O	followers	?
 O	or	?
 O	500	?
@@ -12441,11 +12441,11 @@ O	Your	?
 O	Dad	?
 O	For	?
 O	Ordering	?
-O	Porn	?
-O	On	?
-O	The	?
-O	Cable	?
-O	Bill	?
+B	Porn	?
+I	On	?
+I	The	?
+I	Cable	?
+I	Bill	?
 O	And	?
 O	It	?
 O	Was	?
@@ -12465,12 +12465,12 @@ O	Every	?
 O	TunneL	?
 O	.	?
 O	Just	?
-O	Hope	?
-O	Yours	?
-O	Is	?
-O	Not	?
-O	A	?
-O	Train	?
+B	Hope	?
+I	Yours	?
+I	Is	?
+I	Not	?
+I	A	?
+I	Train	?
 O	.	?
 	
 O	@Jordyn_jordyn_	?
@@ -12509,8 +12509,8 @@ O	.	?
 O	RT	?
 O	@WowEarthPics	?
 O	:	?
-O	Jacob's	?
-O	Well	?
+B	Jacob's	?
+I	Well	?
 O	,	?
 O	Texas	?
 O	http://t.co/5vkjs0j7po	?
@@ -12524,8 +12524,8 @@ O	you	?
 O	partially	?
 O	right	?
 O	...	?
-O	Hey	?
-B	Eman	?
+B	Hey	?
+I	Eman	?
 	
 O	AW	?
 O	MY	?
@@ -12586,8 +12586,8 @@ O	be	?
 O	a	?
 O	mistake	?
 O	.	?
-O	-Friedrich	?
-O	Nietzsche	?
+B	-Friedrich	?
+I	Nietzsche	?
 	
 O	im	?
 O	finna	?
@@ -12662,7 +12662,7 @@ O	not	?
 O	the	?
 O	President	?
 O	of	?
-O	Kenya	?
+B	Kenya	?
 O	.	?
 O	I	?
 O	refuse	?
@@ -12684,10 +12684,10 @@ O	melissa	?
 O	go	?
 O	on	?
 O	my	?
-O	twitter	?
+B	twitter	?
 O	????	?
 B	BC	?
-I	IDK	?
+O	IDK	?
 	
 O	So	?
 O	many	?
@@ -12886,14 +12886,14 @@ O	mind	?
 O	reader	?
 O	.	?
 	
-B	Manchester	?
-I	United	?
+O	Manchester	?
+O	United	?
 O	prepared	?
 O	to	?
 O	allow	?
 O	captain	?
 B	Nemanja	?
-I	Vidic	?
+O	Vidic	?
 O	to	?
 O	join	?
 B	Inter	?
@@ -12952,8 +12952,8 @@ O	Says	?
 O	Iran’s	?
 O	Pick	?
 O	for	?
-O	U.N.	?
-O	Envoy	?
+B	U.N.	?
+I	Envoy	?
 O	Won’t	?
 O	Get	?
 O	a	?
@@ -13122,9 +13122,9 @@ O	Just	?
 O	com	?
 O	…	?
 	
-O	Sexy	?
-O	Dance	?
-O	5	?
+B	Sexy	?
+I	Dance	?
+I	5	?
 O	👌👌👌🌀	?
 O	LOURD	?
 	
@@ -13186,7 +13186,7 @@ O	Living	?
 O	And	?
 O	Thriving	?
 O	in	?
-B	Portsmouth	?
+O	Portsmouth	?
 O	,	?
 O	NH	?
 O	http://t.co/dVn7XUOf2c	?
@@ -13217,7 +13217,7 @@ O	A	?
 O	Warning	?
 O	Label	?
 O	In	?
-O	Europe	?
+B	Europe	?
 O	–	?
 O	Why	?
 O	Not	?
@@ -13232,7 +13232,7 @@ O	make	?
 O	fun	?
 O	of	?
 O	a	?
-O	Jedi	?
+B	Jedi	?
 O	...	?
 O	https://t.co/wwCUpXpYRf	?
 	
@@ -13423,11 +13423,11 @@ O	#10	?
 O	:	?
 O	Opera	?
 O	Without	?
-B	Words	?
-I	Opera	?
+O	Words	?
+O	Opera	?
 O	Without	?
-B	WordsArthur	?
-I	Fiedler	?
+O	WordsArthur	?
+O	Fiedler	?
 O	|	?
 O	Format	?
 O	:	?
@@ -13489,7 +13489,7 @@ O	http://t.co/6TmeOHrWRE	?
 O	RT	?
 O	@JBCrewdotcom	?
 O	:	?
-O	Justin	?
+B	Justin	?
 O	and	?
 O	a	?
 O	fan	?
@@ -13528,10 +13528,10 @@ O	87.65	?
 O	I	?
 O	Mean	?
 O	You	?
-O	Can	?
-O	Hold	?
-O	Me	?
-O	Down	?
+B	Can	?
+I	Hold	?
+I	Me	?
+I	Down	?
 O	But	?
 O	I'm	?
 O	Not	?
@@ -13874,13 +13874,13 @@ O	@ManUtd	?
 O	:	?
 O	VIDEO	?
 O	:	?
-O	Ji-sung	?
-O	Park	?
+B	Ji-sung	?
+I	Park	?
 O	was	?
 O	back	?
 O	at	?
-B	Old	?
-I	Trafford	?
+O	Old	?
+O	Trafford	?
 O	today	?
 O	.	?
 O	Watch	?
@@ -13920,8 +13920,8 @@ O	come	?
 O	RT	?
 O	@kongsookie	?
 O	:	?
-B	LEE	?
-I	ROCK	?
+O	LEE	?
+O	ROCK	?
 	
 O	Lord	?
 O	knows	?
@@ -14023,7 +14023,7 @@ O	be	?
 O	playing	?
 O	at	?
 O	level	?
-O	Seattle	?
+B	Seattle	?
 O	played	?
 O	in	?
 B	Super	?
@@ -14053,9 +14053,9 @@ B	Twitter	?
 I	Card	?
 I	Analytics	?
 O	with	?
-O	Free	?
-O	Basic	?
-O	Guide	?
+B	Free	?
+I	Basic	?
+I	Guide	?
 O	http://t.co/IifwNKWzYQ	?
 	
 O	May	?
@@ -14161,7 +14161,7 @@ O	.	?
 O	chill	?
 O	man	?
 	
-O	NBA	?
+B	NBA	?
 O	prepares	?
 O	to	?
 O	vote	?
@@ -14293,8 +14293,8 @@ O	remember	?
 O	I	?
 O	hate	?
 O	you	?
-B	Real	?
-I	Madrid	?
+O	Real	?
+O	Madrid	?
 	
 O	RT	?
 O	@riles308	?
@@ -14418,8 +14418,8 @@ O	off	?
 O	No	?
 O	.	?
 O	3	?
-O	Ole	?
-O	Miss	?
+B	Ole	?
+I	Miss	?
 O	and	?
 O	wins	?
 O	a	?
@@ -14444,7 +14444,7 @@ O	under	?
 O	oath	?
 O	to	?
 O	the	?
-O	Judge	?
+B	Judge	?
 O	?	?
 O	@GovJayNixon	?
 O	T	?
@@ -14602,7 +14602,7 @@ O	http://t.co/1efYbrrUQl	?
 O	This	?
 O	week	?
 O	on	?
-O	twitter	?
+B	twitter	?
 O	:	?
 O	3	?
 O	new	?
@@ -14702,8 +14702,8 @@ O	year	?
 O	when	?
 O	http://t.co/jNzrt5IRMq	?
 	
-B	UK	?
-I	Names	?
+O	UK	?
+B	Names	?
 I	New	?
 I	Head	?
 O	of	?
@@ -14724,8 +14724,8 @@ O	on	?
 O	Friday	?
 O	,	?
 O	with	?
-B	Foreign	?
-I	Secretar	?
+O	Foreign	?
+O	Secretar	?
 O	...	?
 O	http://t.co/67qLcH68SC	?
 	
@@ -14845,8 +14845,8 @@ O	at	?
 O	Galatasaray	?
 O	.	?
 O	(	?
-O	Daily	?
-O	Mail	?
+B	Daily	?
+I	Mail	?
 O	)	?
 	
 O	RT	?
@@ -14876,7 +14876,7 @@ O	12pm	?
 O	.	?
 O	Sincerely	?
 O	,	?
-O	Eur	?
+B	Eur	?
 O	…	?
 	
 O	I	?
@@ -14949,7 +14949,7 @@ O	don't	?
 O	like	?
 O	this	?
 B	Twitter	?
-I	update	?
+O	update	?
 	
 O	RT	?
 O	@veekiiim	?
@@ -15084,7 +15084,7 @@ O	end	?
 O	of	?
 O	#207x	?
 	
-O	God	?
+B	God	?
 O	so	?
 O	richly	?
 O	loves	?
@@ -15126,7 +15126,7 @@ O	a	?
 O	moment	?
 O	they	?
 O	gave	?
-O	Michigan	?
+B	Michigan	?
 O	a	?
 O	scare	?
 O	in	?
@@ -15146,8 +15146,8 @@ O	RT	?
 O	@forcedmarch9494	?
 O	:	?
 O	@TheRifle27	?
-O	Very	?
-O	True	?
+B	Very	?
+I	True	?
 O	,	?
 O	7	?
 O	Norris	?
@@ -15157,7 +15157,7 @@ O	#HallofFamer	?
 O	RT	?
 O	@KingCali___	?
 O	:	?
-O	Eboni	?
+B	Eboni	?
 O	gotta	?
 O	start	?
 O	chilling	?
@@ -15188,8 +15188,8 @@ O	score	?
 O	RT	?
 O	@THATKEVSWAGG	?
 O	:	?
-O	Patty	?
-O	Mills	?
+B	Patty	?
+I	Mills	?
 O	is	?
 O	that	?
 O	nigga	?
@@ -15237,8 +15237,8 @@ O	,	?
 O	neighbor’s	?
 O	ire	?
 O	:	?
-O	Avon	?
-O	Lake	?
+B	Avon	?
+I	Lake	?
 O	police	?
 O	blotter	?
 O	http://t.co/EoLpmewr6U	?
@@ -15335,16 +15335,16 @@ O	This	?
 O	Week	?
 O	On	?
 O	The	?
-B	TC	?
-I	Gadgets	?
-I	Podcast	?
+O	TC	?
+O	Gadgets	?
+O	Podcast	?
 O	:	?
 B	iPhone	?
 I	Rumors	?
 O	,	?
 O	Glyph	?
 O	,	?
-O	Zipi	?
+B	Zipi	?
 O	,	?
 O	And	?
 O	The	?
@@ -15437,8 +15437,8 @@ O	The	?
 O	clean	?
 O	version	?
 O	of	?
-O	Nicki	?
-O	Minaj's	?
+B	Nicki	?
+I	Minaj's	?
 O	"	?
 O	Anaconda	?
 O	"	?
@@ -15484,7 +15484,7 @@ O	:	?
 O	Please	?
 B	God	?
 O	bring	?
-O	Capon	?
+B	Capon	?
 O	back	?
 O	one	?
 O	way	?
@@ -15619,7 +15619,7 @@ O	said	?
 O	#gotribe	?
 O	#BeatDetroit	?
 	
-O	Libya	?
+B	Libya	?
 O	changed	?
 O	their	?
 O	jersey	?
@@ -15770,7 +15770,7 @@ O	..	?
 O	😴	?
 O	good	?
 O	night	?
-O	twitter	?
+B	twitter	?
 O	💕	?
 	
 O	Y'all	?
@@ -15979,7 +15979,7 @@ O	new	?
 O	photo	?
 O	to	?
 B	Facebook	?
-I	http://t.co/aJ6FfzG4YO	?
+O	http://t.co/aJ6FfzG4YO	?
 	
 O	#9	?
 O	:	?
@@ -16037,7 +16037,7 @@ O	-	?
 O	Thank	?
 O	You	?
 O	.	?
-O	Listen	?
+B	Listen	?
 O	now	?
 O	on	?
 O	http://t.co/nVBU7EInhk	?
@@ -16055,8 +16055,8 @@ O	Cup	?
 O	to	?
 O	Compete	?
 O	With	?
-B	Muslim	?
-I	Holiday	?
+O	Muslim	?
+O	Holiday	?
 O	in	?
 B	Middle	?
 I	East	?
@@ -16129,8 +16129,8 @@ O	http://t.co/tUXuyLXgqT	?
 O	#Miami	?
 O	#Job	?
 O	Consumer	?
-B	Inbound	?
-I	Agent	?
+O	Inbound	?
+O	Agent	?
 O	,	?
 O	Celebrity	?
 O	Cruises	?
@@ -16141,7 +16141,7 @@ I	Cruises	?
 I	Ltd	?
 O	.	?
 O	-	?
-O	Miami	?
+B	Miami	?
 O	,	?
 O	FL	?
 O	:	?
@@ -16202,7 +16202,7 @@ O	view	?
 O	me	?
 O	as	?
 O	the	?
-O	God	?
+B	God	?
 O	I	?
 O	am	?
 O	.	?
@@ -16396,8 +16396,8 @@ O	In	?
 O	#Australia	?
 O	,	?
 O	You	?
-O	Never	?
-B	Lamb	?
+B	Never	?
+I	Lamb	?
 I	Alone	?
 O	.	?
 O	http://t.co/8usrNfWbK2	?
@@ -16477,7 +16477,7 @@ O	smells	?
 O	like	?
 O	a	?
 O	walking	?
-O	Lenny	?
+B	Lenny	?
 O	and	?
 O	joe's	?
 O	restaurant	?
@@ -16494,8 +16494,8 @@ O	you	?
 O	gay	?
 O	by	?
 O	your	?
-O	Avi	?
-O	son	?
+B	Avi	?
+I	son	?
 	
 O	RT	?
 O	@AboutLibras	?
@@ -16601,7 +16601,7 @@ O	Hello	?
 O	,	?
 O	is	?
 O	that	?
-O	twitter	?
+B	twitter	?
 O	will	?
 O	not	?
 O	see	?
@@ -16818,7 +16818,7 @@ O	nearly	?
 O	...	?
 O	More	?
 O	for	?
-O	Scorpio	?
+B	Scorpio	?
 O	http://t.co/qpwXvx0fi9	?
 	
 O	🌸💎🌸💎🌸💎🌸💎	?
@@ -16910,7 +16910,7 @@ O	'	?
 B	Music	?
 I	Bank	?
 O	in	?
-O	Mexico	?
+B	Mexico	?
 O	'	?
 O	halt	?
 O	filming	?
@@ -17002,7 +17002,7 @@ I	Baby	?
 I	Dolls	?
 I	Hand	?
 I	Knit	?
-O	pastel	?
+I	pastel	?
 O	varigated	?
 O	bonnet	?
 O	and	?
@@ -17029,7 +17029,7 @@ O	!!?	?
 O	⛅️🙈😆👅💦💋😈💞	?
 O	#RETWEEET	?
 	
-O	Blog	?
+B	Blog	?
 O	:	?
 O	Microsoft	?
 O	extends	?
@@ -17116,8 +17116,8 @@ O	🌑	?
 O	#FOLLOWMELOHANTHONY	?
 O	u	?
 	
-O	Lmao	?
-O	Patavia	?
+B	Lmao	?
+I	Patavia	?
 O	need	?
 O	to	?
 O	shet	?
@@ -17153,16 +17153,16 @@ O	Keynote	?
 O	presentation	?
 O	at	?
 O	the	?
-O	International	?
-O	Conference	?
+B	International	?
+I	Conference	?
 O	of	?
 O	tourism	?
 O	hospitality	?
 O	and	?
 O	recreation	?
 O	,	?
-B	University	?
-I	School	?
+O	University	?
+O	School	?
 O	of	?
 O	...	?
 O	http://t.co/XyQEZxhGxv	?
@@ -17171,11 +17171,11 @@ O	RT	?
 O	@Wisdom_Quotee	?
 O	:	?
 O	10	?
-B	High	?
-I	School	?
-I	Cheerleaders	?
-I	Who	?
-I	Turned	?
+O	High	?
+O	School	?
+O	Cheerleaders	?
+O	Who	?
+O	Turned	?
 O	Into	?
 O	Celebrities	?
 O	.	?
@@ -17213,7 +17213,7 @@ O	...	?
 O	how	?
 O	so	?
 O	,	?
-O	Cameron	?
+B	Cameron	?
 O	?	?
 	
 O	RT	?
@@ -17307,7 +17307,7 @@ O	you🙏	?
 O	Going	?
 O	up	?
 O	to	?
-O	London	?
+B	London	?
 O	today	?
 O	for	?
 O	3	?
@@ -17402,12 +17402,12 @@ O	my	?
 O	hairs	?
 O	different	?
 O	????	?
-O	Dallas	?
+B	Dallas	?
 O	tonight	?
 O	:))	?
 O	http://t.co/5FBOB391yJ	?
 	
-O	Naaaa	?
+B	Naaaa	?
 O	don't	?
 O	get	?
 O	that	?
@@ -17539,7 +17539,7 @@ O	muah	?
 O	Buzzing	?
 O	for	?
 O	the	?
-O	SuperBowl	?
+B	SuperBowl	?
 O	🏈	?
 	
 O	I've	?
@@ -17562,8 +17562,8 @@ O	:	?
 O	Rae	?
 O	Sremmurd	?
 O	ft	?
-O	Nicki	?
-O	Minaj	?
+B	Nicki	?
+I	Minaj	?
 O	&	?
 O	amp	?
 O	;	?
@@ -17571,8 +17571,8 @@ O	Pusha	?
 O	T	?
 O	-	?
 O	No	?
-O	Flex	?
-O	Zone	?
+B	Flex	?
+I	Zone	?
 O	(	?
 O	Remix	?
 O	)	?
@@ -17816,7 +17816,7 @@ O	;	?
 O	&	?
 O	gt	?
 O	;	?
-O	Thomas	?
+B	Thomas	?
 O	&	?
 O	amp	?
 O	;	?
@@ -17825,9 +17825,9 @@ O	:	?
 O	Team	?
 O	Up	?
 O	With	?
-O	Thomas	?
+B	Thomas	?
 O	http://t.co/27X7Xh8oUJ	?
-O	Amazon	?
+B	Amazon	?
 O	3	?
 	
 O	RT	?
@@ -18175,7 +18175,7 @@ O	YOUR	?
 O	ATTENTION	?
 O	!	?
 O	BUT	?
-O	NOP	?
+B	NOP	?
 O	I'M	?
 O	NOT	?
 O	GONNA	?
@@ -18226,8 +18226,8 @@ O	cystic	?
 O	fibrosis	?
 O	age16yrs	?
 O	thanx	?
-O	Jodies	?
-O	Dad	?
+B	Jodies	?
+I	Dad	?
 O	http://t.co/X8ZBAossNJ	?
 	
 O	RT	?
@@ -18288,14 +18288,14 @@ O	RT	?
 O	@Ballout_Kearia	?
 O	:	?
 O	We	?
-B	Got	?
-I	Bitches	?
-I	Mad	?
-I	The	?
-I	Friends	?
-I	And	?
-I	The	?
-I	Cousins😂😝😈	?
+O	Got	?
+O	Bitches	?
+O	Mad	?
+O	The	?
+O	Friends	?
+O	And	?
+O	The	?
+O	Cousins😂😝😈	?
 	
 O	RT	?
 O	@anthonygreenery	?
@@ -18378,8 +18378,8 @@ O	Grenouilles	?
 O	en	?
 O	folie	?
 O	from	?
-B	LE	?
-I	FOURBE	?
+O	LE	?
+O	FOURBE	?
 O	.	?
 O	com	?
 O	!	?
@@ -18393,9 +18393,9 @@ O	@Real_Liam_Payne	?
 O	🌿	?
 O	I	?
 O	love	?
-O	Steal	?
-O	My	?
-O	Girl	?
+B	Steal	?
+I	My	?
+I	Girl	?
 O	&	?
 O	amp	?
 O	;	?
@@ -18550,8 +18550,8 @@ O	@CliveH_Learning	?
 O	RT	?
 O	@LabourList	?
 O	:	?
-O	Gordon	?
-O	Brown	?
+B	Gordon	?
+I	Brown	?
 O	still	?
 O	has	?
 O	something	?
@@ -18696,8 +18696,8 @@ O	executes	?
 O	#Syria	?
 O	civilians	?
 O	in	?
-O	COLD	?
-O	BLOOD	?
+B	COLD	?
+I	BLOOD	?
 O	?	?
 O	http://t.co/AbfhXgpaTd	?
 O	v/	?
@@ -18774,9 +18774,9 @@ I	Disease	?
 I	Symptoms	?
 I	Go	?
 I	Away	?
-O	Using	?
-O	These	?
-O	Tips	?
+I	Using	?
+I	These	?
+I	Tips	?
 O	http://t.co/aimrU5tXSm	?
 O	http://t.co/KNTwAbDUeO	?
 	
@@ -18863,7 +18863,7 @@ O	think	?
 O	I'm	?
 O	doing	?
 O	now	?
-O	Mija	?
+B	Mija	?
 	
 O	that	?
 O	really	?
@@ -18913,8 +18913,8 @@ O	JESUS	?
 O	,	?
 O	I	?
 O	HAVE	?
-O	Jesus	?
-O	BLOOD	?
+B	Jesus	?
+I	BLOOD	?
 O	ON	?
 O	ME	?
 O	CAUSE	?
@@ -19064,9 +19064,9 @@ O	thank	?
 O	you	?
 O	:3	?
 	
-O	Asi	?
-O	Predicted	?
-O	German	?
+B	Asi	?
+I	Predicted	?
+I	German	?
 O	had	?
 O	won	?
 O	!!	?
@@ -19162,7 +19162,7 @@ O	2/15	?
 	
 O	♡♡♡	?
 O	@Michael5SOS	?
-O	Michael	?
+B	Michael	?
 O	please	?
 O	follow	?
 O	me	?
@@ -19344,7 +19344,7 @@ O	I	?
 O	have	?
 O	pizza	?
 O	and	?
-O	Netflix	?
+B	Netflix	?
 O	where	?
 O	bae	?
 O	at	?
@@ -19387,7 +19387,7 @@ O	If	?
 O	you	?
 O	were	?
 O	a	?
-O	Dementor	?
+B	Dementor	?
 O	,	?
 O	I’d	?
 O	become	?
@@ -19422,8 +19422,8 @@ O	RT	?
 O	@BasedChasen	?
 O	:	?
 O	*	?
-B	Tells	?
-I	Colin	?
+O	Tells	?
+B	Colin	?
 I	Kapernick	?
 O	he's	?
 O	overrated	?
@@ -19535,15 +19535,15 @@ O	surprised	?
 O	RT	?
 O	@wikileaks	?
 O	:	?
-O	Ukraine	?
+B	Ukraine	?
 O	has	?
 O	been	?
 O	part	?
 O	of	?
 O	the	?
 O	"	?
-O	Grand	?
-O	Chessboard	?
+B	Grand	?
+I	Chessboard	?
 O	"	?
 O	of	?
 O	US	?
@@ -19862,8 +19862,8 @@ O	problem	?
 O	is	?
 O	me	?
 O	/	?
-B	How	?
-I	Affection	?
+O	How	?
+O	Affection	?
 	
 O	@henderfabelous	?
 O	um	?
@@ -19977,7 +19977,7 @@ O	@lilDeshayy_	?
 O	:	?
 O	Can't	?
 O	Fwu	?
-O	Niggas	?
+B	Niggas	?
 O	Im	?
 O	Sorry	?
 O	😩	?
@@ -20031,7 +20031,7 @@ O	CLOSE	?
 O	TO	?
 O	YOUR	?
 O	GOAL	?
-O	BC	?
+B	BC	?
 O	FOLLOW	?
 O	TRICK	?
 O	IN	?
@@ -20150,7 +20150,7 @@ O	24	?
 B	Inches	?
 I	2	?
 I	Square	?
-I	Foot	?
+O	Foot	?
 O	)	?
 O	LEATHER	?
 O	...	?
@@ -20305,7 +20305,7 @@ O	We	?
 O	are	?
 O	going	?
 O	to	?
-O	Lisbon	?
+B	Lisbon	?
 O	?	?
 O	Winning	?
 O	5-0	?
@@ -20384,9 +20384,9 @@ O	Programmer	?
 O	Analyst	?
 O	4-IT	?
 O	at	?
-O	Oracle	?
+B	Oracle	?
 O	(	?
-O	Indianapolis	?
+B	Indianapolis	?
 O	,	?
 O	IN	?
 O	):	?
@@ -20423,7 +20423,7 @@ O	@DanielJWorld	?
 O	PLEAAAAASE	?
 O	DANIEL	?
 O	!	?
-O	STOP	?
+B	STOP	?
 O	IGNORED	?
 O	ME	?
 O	,	?
@@ -20532,7 +20532,7 @@ O	Bama	?
 O	when	?
 O	u	?
 O	dey	?
-O	Adamawa	?
+B	Adamawa	?
 O	.	?
 O	Yeye	?
 O	dey	?
@@ -20545,7 +20545,7 @@ O	:	?
 O	$900	?
 O	for	?
 O	an	?
-O	iPhone	?
+B	iPhone	?
 O	6	?
 O	?	?
 O	Airplane	?
@@ -20622,9 +20622,9 @@ O	a	?
 O	midweek	?
 O	match	?
 O	.	?
-O	Captaining	?
-O	Le	?
-O	Toux	?
+B	Captaining	?
+I	Le	?
+I	Toux	?
 O	and	?
 O	having	?
 B	Lloyd	?
@@ -20685,10 +20685,10 @@ O	…	?
 O	RT	?
 O	@HausOfGypsies	?
 O	:	?
-O	The	?
-O	Cheek	?
-O	To	?
-O	Cheek	?
+B	The	?
+I	Cheek	?
+I	To	?
+I	Cheek	?
 O	era	?
 O	has	?
 O	begun	?
@@ -20936,7 +20936,7 @@ O	Lol	?
 O	punani	?
 O	shortage	?
 O	in	?
-O	Bloem	?
+B	Bloem	?
 O	""	?
 	
 O	Go	?
@@ -21078,9 +21078,9 @@ O	.	?
 O	🔱JUEGAZO	?
 O	.	?
 O	🔱⏪⏪	?
-O	Descarga	?
-O	Play	?
-O	Store	?
+B	Descarga	?
+I	Play	?
+I	Store	?
 O	:	?
 O	✅✅✅	?
 O	http://t.co/kyMfIoflBv	?
@@ -21304,7 +21304,7 @@ O	@pvhvhp	?
 O	For	?
 O	T	?
 O	&amp;	?
-O	C	?
+B	C	?
 O	please	?
 O	see	?
 O	http://t.co/wgQMF4fwZB	?
@@ -21346,8 +21346,8 @@ O	me	?
 O	too	?
 O	tbh	?
 	
-O	Robin	?
-O	Williams	?
+B	Robin	?
+I	Williams	?
 O	one	?
 O	of	?
 O	the	?
@@ -21839,11 +21839,11 @@ O	Catholic	?
 O	Church	?
 O	:	?
 O	Saint	?
-O	John	?
+B	John	?
 O	XXIII	?
 O	and	?
-B	Saint	?
-I	John	?
+O	Saint	?
+B	John	?
 I	Paul	?
 O	II	?
 O	pray	?
@@ -21861,7 +21861,7 @@ O	considers	?
 O	further	?
 O	reduction	?
 O	of	?
-O	Southampton	?
+B	Southampton	?
 O	caribou	?
 O	harvest	?
 O	.	?
@@ -21921,7 +21921,7 @@ O	@DAVID_LYNCH	?
 O	:	?
 O	Dear	?
 B	Twitter	?
-I	Friends	?
+O	Friends	?
 O	:	?
 O	That	?
 O	gum	?
@@ -22043,7 +22043,7 @@ O	be	?
 O	back	?
 O	in	?
 O	touch	?
-O	ASAP	?
+B	ASAP	?
 O	.	?
 	
 O	Free	?
@@ -22052,7 +22052,7 @@ O	:	?
 O	Busty	?
 O	mature	?
 O	Holly	?
-O	Halston	?
+B	Halston	?
 O	fucked	?
 O	good	?
 O	n	?
@@ -22107,7 +22107,7 @@ O	just	?
 O	what	?
 O	you	?
 O	made	?
-O	God	?
+B	God	?
 O	.	?
 	
 O	#jobs4u	?
@@ -22157,9 +22157,9 @@ O	completed	?
 O	the	?
 O	quest	?
 O	'	?
-B	Upgrade	?
-I	Ancient	?
-I	Bars	?
+O	Upgrade	?
+O	Ancient	?
+O	Bars	?
 O	an	?
 O	...	?
 O	'	?
@@ -22193,15 +22193,15 @@ O	was	?
 O	lost	?
 O	lol	?
 	
-O	Blu	?
-O	Paw	?
-O	Radio	?
+B	Blu	?
+I	Paw	?
+I	Radio	?
 O	-	?
 O	Relay	?
 O	is	?
 O	playing	?
 O	Bimbo	?
-O	Jones	?
+B	Jones	?
 O	feat	?
 O	.	?
 O	Ida	?
@@ -22405,8 +22405,8 @@ O	hate	?
 O	it	?
 O	.	?
 	
-O	Oakley	?
-O	Sunglasses	?
+B	Oakley	?
+I	Sunglasses	?
 O	,	?
 O	H008-Wholesale23	?
 O	,	?
@@ -22451,10 +22451,10 @@ O	drunk	?
 	
 O	Check	?
 O	out	?
-O	The	?
-O	Real	?
-O	MMA	?
-O	Talk	?
+B	The	?
+I	Real	?
+I	MMA	?
+I	Talk	?
 O	to	?
 O	find	?
 O	out	?
@@ -22552,9 +22552,9 @@ O	.	?
 O	🔱JUEGAZO	?
 O	.	?
 O	🔱⏪⏪	?
-O	Descarga	?
-O	Play	?
-O	Store	?
+B	Descarga	?
+I	Play	?
+I	Store	?
 O	:	?
 O	✅✅✅	?
 O	http://t.co/kyMfIoflBv	?
@@ -22680,8 +22680,8 @@ O	TGFbro	?
 O	on	?
 O	ITV2	?
 O	/	?
-B	Viral	?
-I	Tap	?
+O	Viral	?
+O	Tap	?
 	
 O	RT	?
 O	@Mirandallama	?
@@ -22736,8 +22736,8 @@ O	PASS	?
 O	THIS	?
 O	AND	?
 O	DIDNT	?
-B	RETWEET	?
-I	NIALL	?
+O	RETWEET	?
+O	NIALL	?
 O	IS	?
 O	JUDGING	?
 O	YOU	?
@@ -22895,9 +22895,9 @@ O	With	?
 B	Mad	?
 I	Curves	?
 I	Strips	?
-I	And	?
-I	Finger	?
-I	Fucks	?
+O	And	?
+O	Finger	?
+O	Fucks	?
 O	...	?
 O	http://t.co/luzuZQAKiz	?
 	
@@ -23032,7 +23032,7 @@ O	…	?
 O	At	?
 B	Twin	?
 I	Crib	?
-I	Again	?
+O	Again	?
 	
 O	I'm	?
 O	like	?
@@ -23079,7 +23079,7 @@ O	trophy	?
 O	for	?
 O	the	?
 O	best	?
-O	twitter	?
+B	twitter	?
 O	user	?
 O	It	?
 O	would	?
@@ -23092,10 +23092,10 @@ O	insanely	?
 O	huge	?
 O	fan	?
 O	)	?
-O	Johnny	?
+B	Johnny	?
 O	K	?
 O	..	?
-O	Blablabla	?
+B	Blablabla	?
 	
 O	RT	?
 O	@tutsbieberr	?
@@ -23151,14 +23151,14 @@ O	:	?
 B	Titanfall	?
 I	Beta	?
 O	,	?
-O	Dennis	?
+B	Dennis	?
 O	Woodside’s	?
 O	new	?
 O	job	?
 O	,	?
 O	and	?
-O	Lego	?
-O	Movie	?
+B	Lego	?
+I	Movie	?
 O	http://t.co/xmdrCNPwKV	?
 	
 O	RT	?
@@ -23242,8 +23242,8 @@ O	…	?
 O	RT	?
 O	@SoReal_Bubble	?
 O	:	?
-O	Night	?
-O	Everyone	?
+B	Night	?
+I	Everyone	?
 O	:)	?
 O	#PrayBeforeYouLay	?
 	
@@ -23342,7 +23342,7 @@ O	fantastic	?
 O	day	?
 O	for	?
 O	some	?
-O	MSU	?
+B	MSU	?
 O	football	?
 O	!	?
 O	http://t.co/WbgVt8fIr8	?
@@ -23651,8 +23651,8 @@ O	.	?
 	
 O	@voyagestyIes	?
 O	I	?
-B	WANNA	?
-I	COUNTDOWNNDJSJD	?
+O	WANNA	?
+O	COUNTDOWNNDJSJD	?
 	
 O	she	?
 O	think	?
@@ -23929,7 +23929,7 @@ O	DM	?
 O	my	?
 O	name	?
 O	to	?
-O	Ariana	?
+B	Ariana	?
 O	&	?
 O	amp	?
 O	;	?
@@ -24043,7 +24043,7 @@ O	THE	?
 O	ASSOCIATED	?
 O	PRESS	?
 O	via	?
-O	NYT	?
+B	NYT	?
 O	http://t.co/eziW4WoET5	?
 O	http://t.co/h1lz2rawva	?
 	
@@ -24055,8 +24055,8 @@ O	Birthday	?
 O	to	?
 B	Pro	?
 I	Bowl	?
-I	DE	?
-I	Cam	?
+O	DE	?
+B	Cam	?
 I	Wake	?
 O	(	?
 O	@Kold91	?
@@ -24089,7 +24089,7 @@ O	subjects	?
 O	to	?
 O	war	?
 	
-O	Blog	?
+B	Blog	?
 O	→	?
 O	http://t.co/PahUEGoSFq	?
 	
@@ -24443,8 +24443,8 @@ O	be	?
 O	dogless	?
 	
 O	Watching	?
-B	Scooby	?
-I	Doo	?
+O	Scooby	?
+O	Doo	?
 O	in	?
 O	class	?
 O	👌👌	?
@@ -24506,17 +24506,17 @@ O	the	?
 O	jls	?
 O	boys	?
 	
-O	Breast	?
-O	Cancer	?
-O	Awareness	?
+B	Breast	?
+I	Cancer	?
+I	Awareness	?
 O	Month	?
 O	!	?
 O	💕	?
 O	http://t.co/nwM8rwXcI9	?
 	
 O	#SocialMedia	?
-B	Secrets	?
-I	Rule	?
+O	Secrets	?
+B	Rule	?
 I	Westeros	?
 O	in	?
 O	New	?
@@ -24612,8 +24612,8 @@ O	http://t.co/XvYYPJpwTt	?
 	
 O	Had	?
 O	An	?
-B	Awesome	?
-I	Day	?
+O	Awesome	?
+O	Day	?
 O	With	?
 O	My	?
 O	Princess	?
@@ -24780,8 +24780,8 @@ O	chopped	?
 O	it	?
 O	up	?
 O	like	?
-O	REAL	?
-O	NIGGAS	?
+B	REAL	?
+I	NIGGAS	?
 O	&	?
 O	amp	?
 O	;	?
@@ -24836,7 +24836,7 @@ O	sign	?
 O	petition	?
 O	2	?
 O	save	?
-O	Yashika	?
+B	Yashika	?
 O	being	?
 O	torn	?
 O	from	?
@@ -24881,8 +24881,8 @@ O	cheating	?
 O	For	?
 O	okc	?
 	
-O	Kitchen	?
-O	Kookies	?
+B	Kitchen	?
+I	Kookies	?
 O	celebrate	?
 O	60	?
 O	years	?
@@ -24898,10 +24898,10 @@ O	IM	?
 O	solutions	?
 O	http://t.co/nQFesiUihr	?
 	
-B	Hottest	?
-I	Adult	?
-I	Film	?
-I	Stars	?
+O	Hottest	?
+O	Adult	?
+O	Film	?
+B	Stars	?
 O	of	?
 O	2014	?
 O	http://t.co/oFk18rwMOH	?
@@ -24915,7 +24915,7 @@ O	much	?
 O	to	?
 O	do	?
 O	with	?
-B	ICW	?
+O	ICW	?
 O	,	?
 O	more	?
 O	like	?
@@ -25052,8 +25052,8 @@ O	Get	?
 O	in	?
 O	touch	?
 O	with	?
-B	Pest	?
-I	Control	?
+O	Pest	?
+O	Control	?
 O	experts	?
 O	,	?
 O	Envirosafe	?
@@ -25061,7 +25061,7 @@ O	:	?
 O	http://t.co/biuQpI9u5u	?
 	
 O	[	?
-O	TMZ	?
+B	TMZ	?
 O	]	?
 O	'	?
 O	MacGyver	?
@@ -25111,12 +25111,12 @@ O	…	?
 	
 O	Now	?
 O	On	?
-O	Channel	?
-O	5	?
+B	Channel	?
+I	5	?
 O	::	?
 O	Bananas	?
 O	In	?
-O	Pyjamas	?
+B	Pyjamas	?
 O	06:00	?
 O	AM	?
 O	-	?
@@ -25227,7 +25227,7 @@ O	,	?
 O	for	?
 O	orphans	?
 O	in	?
-O	Uganda	?
+B	Uganda	?
 O	|	?
 O	2nd	?
 O	Aug	?
@@ -25269,7 +25269,7 @@ O	That	?
 B	Nigga	?
 I	The	?
 I	Ref	?
-O	Love	?
+I	Love	?
 O	😂😂😂	?
 	
 O	You	?
@@ -25434,7 +25434,7 @@ O	so	?
 O	glad	?
 O	me	?
 O	and	?
-O	Breanna	?
+B	Breanna	?
 O	have	?
 O	all	?
 O	our	?
@@ -25475,7 +25475,7 @@ O	peace	?
 O	–	?
 O	and	?
 O	the	?
-O	God	?
+B	God	?
 O	of	?
 O	love	?
 O	and	?
@@ -25494,7 +25494,7 @@ O	by	?
 O	Bring	?
 O	Me	?
 O	The	?
-O	Horizon	?
+B	Horizon	?
 O	.	?
 O	Share	?
 O	and	?
@@ -25570,7 +25570,7 @@ O	Who	?
 O	buying	?
 O	me	?
 O	the	?
-O	iPhone	?
+B	iPhone	?
 O	6	?
 O	doe	?
 O	?	?
@@ -25639,16 +25639,16 @@ O	Pls	?
 O	!!	?
 O	OneDayToGoBeforeTheWitchingHour	?
 O	|	?
-B	Cebu	?
-I	Wants	?
-I	JaDine	?
+O	Cebu	?
+O	Wants	?
+B	JaDine	?
 I	Back	?
 	
 O	IT	?
 O	RECORDED	?
 O	HHAHHAH	?
 O	SUCKERS	?
-B	WHOOHOO	?
+O	WHOOHOO	?
 	
 O	@THEdustindorsey	?
 O	Thanks	?
@@ -25968,10 +25968,10 @@ O	@680News	?
 O	:	?
 O	#BREAKING	?
 O	:	?
-O	Apple	?
-O	buys	?
-O	Beats	?
-O	Electronics	?
+B	Apple	?
+I	buys	?
+I	Beats	?
+I	Electronics	?
 O	for	?
 O	$3B	?
 O	http://t.co/vQE5jMhCVq	?
@@ -25998,7 +25998,7 @@ O	http://t.co/Ja7JuZh988	?
 B	Sam	?
 I	Smith	?
 O	-	?
-O	Nirvana	?
+B	Nirvana	?
 O	:	?
 O	http://t.co/sleRouCdRg	?
 O	via	?
@@ -26066,8 +26066,8 @@ O	I	?
 O	just	?
 O	won	?
 O	9	?
-O	Swag	?
-O	Bucks	?
+B	Swag	?
+I	Bucks	?
 O	by	?
 O	searching	?
 O	the	?
@@ -26132,8 +26132,8 @@ O	is	?
 O	how	?
 O	Louis	?
 O	van	?
-B	Gaal's	?
-I	Manchester	?
+O	Gaal's	?
+B	Manchester	?
 I	United	?
 O	will	?
 O	look	?
@@ -26154,8 +26154,8 @@ O	RT	?
 O	@TrustJo	?
 O	:	?
 O	Im	?
-B	Playin	?
-I	Dead	?
+O	Playin	?
+O	Dead	?
 O	if	?
 B	Dis	?
 I	Shit	?
@@ -26339,17 +26339,17 @@ O	nap	?
 	
 O	#Sep19	?
 O	@	?
-B	New	?
-I	Jersey	?
+O	New	?
+B	Jersey	?
 I	City	?
 I	University	?
 O	--	?
 O	SCANJ	?
 O	24	?
 O	Seven	?
-O	Line	?
-O	Dance	?
-O	Marathon	?
+B	Line	?
+I	Dance	?
+I	Marathon	?
 O	September	?
 O	19-20th	?
 O	!	?
@@ -26529,7 +26529,7 @@ O	mind	?
 O	back	?
 O	to	?
 O	the	?
-O	Euros	?
+B	Euros	?
 O	,	?
 O	this	?
 O	was	?
@@ -26619,7 +26619,7 @@ O	to	?
 O	blur	?
 O	live	?
 O	at	?
-O	Glastonbury	?
+B	Glastonbury	?
 O	!	?
 O	Loved	?
 O	it	?
@@ -26725,7 +26725,7 @@ O	Russia	?
 O	&	?
 O	amp	?
 O	;	?
-O	China	?
+B	China	?
 O	http://t.co/HfsQjYVfKu	?
 O	#TechSecurity	?
 	
@@ -26830,10 +26830,10 @@ O	-	?
 O	My	?
 O	Way	?
 O	(	?
-O	Prod	?
-O	.	?
-O	Maleek	?
-O	Berry	?
+B	Prod	?
+I	.	?
+I	Maleek	?
+I	Berry	?
 O	)	?
 O	-	?
 O	Now	?
@@ -26902,14 +26902,14 @@ O	:	?
 B	Paradise	?
 I	Valley	?
 O	,	?
-O	AZ	?
+B	AZ	?
 O	-	?
 O	Oct	?
 O	29	?
 O	at	?
 B	Omni	?
 I	Scottsdale	?
-I	Resort	?
+O	Resort	?
 O	http://t.co/u9pvTPvlSi	?
 	
 O	RT	?
@@ -27032,7 +27032,7 @@ O	http://t.co/33ElhdsPMJ	?
 O	RT	?
 O	@MassingillCindy	?
 O	:	?
-O	Green	?
+B	Green	?
 O	idea	?
 O	by	?
 O	Laura	?
@@ -27076,7 +27076,7 @@ O	Look	?
 O	here	?
 O	bitches	?
 O	.	?
-O	Listen	?
+B	Listen	?
 O	closely	?
 O	.	?
 O	I	?
@@ -27211,9 +27211,9 @@ O	Finally	?
 O	Catches	?
 O	Up	?
 O	With	?
-B	Pirate	?
-I	Bay	?
-I	Torrent	?
+O	Pirate	?
+O	Bay	?
+O	Torrent	?
 O	Co-Founder	?
 O	http://t.co/QCtLybpsug	?
 	
@@ -27365,8 +27365,8 @@ O	breaking	?
 O	news	?
 O	:	?
 O	blaming	?
-O	Michelle	?
-O	Obama	?
+B	Michelle	?
+I	Obama	?
 O	makes	?
 O	you	?
 O	sound	?
@@ -27416,7 +27416,7 @@ O	ass	?
 O	party	?
 O	#FlockaveliTwo	?
 	
-O	Mine	?
+B	Mine	?
 O	would	?
 O	be	?
 O	youuu	?
@@ -27461,7 +27461,7 @@ O	RT	?
 O	@OnceUponAFan	?
 O	:	?
 O	Once	?
-O	Upon	?
+B	Upon	?
 O	a	?
 O	Time	?
 O	Theories	?
@@ -27494,8 +27494,8 @@ O	you	?
 O	cutie	?
 O	?	?
 	
-O	Nicki	?
-O	Minaj	?
+B	Nicki	?
+I	Minaj	?
 O	x	?
 O	Pills	?
 O	N	?
@@ -27516,8 +27516,8 @@ O	~	?
 O	Cowboy	?
 O	Truth	?
 O	~	?
-O	Olivia	?
-O	Jaymes	?
+B	Olivia	?
+I	Jaymes	?
 O	http://t.co/z53G60fGaW	?
 O	via	?
 O	@EveliseArcher	?
@@ -27599,8 +27599,8 @@ O	T	?
 O	.	?
 O	Shame	?
 O	With	?
-O	Church	?
-O	Boi-Dez	?
+B	Church	?
+I	Boi-Dez	?
 O	,	?
 B	Portia	?
 I	Rayne	?
@@ -27780,8 +27780,8 @@ O	actresses	?
 O	.	?
 O	I	?
 O	watched	?
-O	Uptown	?
-O	Girls	?
+B	Uptown	?
+I	Girls	?
 O	last	?
 O	night	?
 O	and	?
@@ -27816,7 +27816,7 @@ O	today's	?
 O	Russia's	?
 O	stance	?
 O	on	?
-O	Ukraine	?
+B	Ukraine	?
 O	&	?
 O	gt	?
 O	;	?
@@ -27861,7 +27861,7 @@ O	because	?
 O	I'm	?
 O	empty	?
 	
-O	Chicago	?
+B	Chicago	?
 O	is	?
 O	set	?
 O	for	?
@@ -27953,15 +27953,15 @@ O	mom	?
 O	😘😘	?
 	
 O	Congrats	?
-O	MSU	?
+B	MSU	?
 O	!	?
 O	Great	?
 O	season	?
 O	and	?
 O	a	?
 O	great	?
-O	Rose	?
-O	Bowl	?
+B	Rose	?
+I	Bowl	?
 O	win	?
 O	.	?
 	
@@ -28097,7 +28097,7 @@ O	in	?
 B	Mossgiel	?
 I	Terr	?
 O	,	?
-O	Laurieston	?
+B	Laurieston	?
 O	.…	?
 	
 O	I	?
@@ -28146,7 +28146,7 @@ O	will	?
 O	you	?
 O	be	?
 O	in	?
-O	Vegas	?
+B	Vegas	?
 O	for	?
 O	#Konpa	?
 O	in	?
@@ -28233,11 +28233,11 @@ O	southern	?
 O	aisles	?
 O	"	?
 	
-O	Chinese	?
-O	Version	?
-O	of	?
-O	“	?
-O	Superman	?
+B	Chinese	?
+I	Version	?
+I	of	?
+I	“	?
+I	Superman	?
 O	Returns	?
 O	”	?
 O	Explains	?
@@ -28347,8 +28347,8 @@ O	a	?
 O	Cleaning	?
 O	Checklist	?
 O	to	?
-B	Organize	?
-I	Household	?
+O	Organize	?
+O	Household	?
 O	Cleaning	?
 O	Chores	?
 O	~	?
@@ -28483,8 +28483,8 @@ O	died	?
 O	Such	?
 O	a	?
 O	beautiful	?
-B	Mother's	?
-I	Day	?
+O	Mother's	?
+O	Day	?
 O	today	?
 	
 O	RT	?
@@ -28560,7 +28560,7 @@ O	BILLION	?
 O	as	?
 B	Universal	?
 I	Credit	?
-O	bill	?
+I	bill	?
 O	soars	?
 O	http://t.co/m4UiEWJ92h	?
 O	htt	?
@@ -28578,7 +28578,7 @@ O	RT	?
 O	@comedyandtruth	?
 O	:	?
 O	sometimes	?
-O	twitter	?
+B	twitter	?
 O	has	?
 O	more	?
 O	drama	?
@@ -28732,20 +28732,20 @@ O	http://t.co/NuAF1HJvdE	?
 	
 O	K/s	?
 O	My	?
-O	Eyes	?
-O	Miss	?
-O	U	?
-O	My	?
-O	Feeling	?
-O	Love	?
-O	U	?
-O	My	?
-O	Hand	?
-O	Need	?
-O	U	?
-O	My	?
-O	Mind	?
-O	Call	?
+B	Eyes	?
+I	Miss	?
+I	U	?
+I	My	?
+I	Feeling	?
+I	Love	?
+I	U	?
+I	My	?
+I	Hand	?
+I	Need	?
+I	U	?
+I	My	?
+I	Mind	?
+I	Call	?
 O	U	?
 O	My	?
 O	Heart	?
@@ -28932,10 +28932,10 @@ O	RT	?
 O	@TripifyHQ	?
 O	:	?
 O	The	?
-B	South	?
-I	Coast	?
-I	of	?
-I	Dublin	?
+O	South	?
+O	Coast	?
+O	of	?
+O	Dublin	?
 O	photo	?
 O	tour	?
 O	http://t.co/hrUib5sf6n	?
@@ -29111,8 +29111,8 @@ O	The	?
 O	wave	?
 O	height	?
 O	at	?
-B	Seaford	?
-I	Bay	?
+O	Seaford	?
+O	Bay	?
 O	(	?
 O	06:30	?
 O	)	?
@@ -29246,8 +29246,8 @@ O	Might	?
 O	go	?
 O	watch	?
 O	the	?
-O	USA	?
-O	CUP	?
+B	USA	?
+I	CUP	?
 O	WEEKEND	?
 O	tournament	?
 O	!!	?
@@ -29257,13 +29257,13 @@ O	#score	?
 O	England	?
 O	220-4	?
 O	vs	?
-O	India	?
+B	India	?
 O	148	?
 O	:	?
 O	England	?
 O	220-4	?
 O	vs	?
-O	India	?
+B	India	?
 O	148	?
 O	#cricket	?
 	
@@ -29337,7 +29337,7 @@ O	:	?
 O	Dog	?
 O	won	?
 O	over	?
-O	bunny	?
+B	bunny	?
 O	!	?
 O	A	?
 O	dog	?
@@ -29421,8 +29421,8 @@ O	http://t.co/jF1os8ONel	?
 O	RT	?
 O	@Iadybonerss	?
 O	:	?
-O	Zac	?
-O	Efron	?
+B	Zac	?
+I	Efron	?
 O	appreciation	?
 O	tweet	?
 O	http://t.co/cTedceLr20	?
@@ -29441,8 +29441,8 @@ O	Bible	?
 O	segment	?
 O	is	?
 O	from	?
-B	Matthew	?
-I	Chapter	?
+O	Matthew	?
+O	Chapter	?
 O	25	?
 O	;	?
 O	Verse	?
@@ -29502,7 +29502,7 @@ O	http://t.co/tONdiGQLSL	?
 	
 O	Spring	?
 O	Cleaning	?
-O	Sale	?
+B	Sale	?
 O	!	?
 O	http://t.co/J7FqHgPJEA	?
 	
@@ -29551,7 +29551,7 @@ I	Antique	?
 I	Style	?
 I	Framed	?
 I	Chalkboard	?
-I	Framed	?
+O	Framed	?
 O	by	?
 B	JabberDuck	?
 O	http://t.co/61UlDVa7mB	?
@@ -29575,7 +29575,7 @@ O	Lion	?
 O	cos	?
 O	I'm	?
 O	so	?
-O	Messi	?
+B	Messi	?
 O	😂	?
 	
 O	I	?
@@ -29829,8 +29829,8 @@ O	forget	?
 O	to	?
 O	get	?
 O	your	?
-B	Mother's	?
-I	Day	?
+O	Mother's	?
+O	Day	?
 O	gifts	?
 O	!	?
 O	http://t.co/mS2btAE0ue	?
@@ -29996,8 +29996,8 @@ O	@LueyLu856	?
 O	it	?
 O	is	?
 O	in	?
-O	Elizabeth	?
-O	yo👌	?
+B	Elizabeth	?
+I	yo👌	?
 	
 O	RT	?
 O	@The3rdEyeSight	?
@@ -30073,8 +30073,8 @@ B	Golden	?
 I	Disk	?
 I	Awards	?
 O	;	?
-B	Red	?
-I	Carpet	?
+O	Red	?
+O	Carpet	?
 O	.	?
 O	[	?
 O	Cr	?
@@ -30155,8 +30155,8 @@ O	Facebook's	?
 O	next	?
 O	frontier	?
 O	:	?
-O	Mark	?
-O	Zuckerberg	?
+B	Mark	?
+I	Zuckerberg	?
 O	writes	?
 O	about	?
 O	using	?
@@ -30339,19 +30339,19 @@ O	Followers	?
 B	Twitter	?
 I	Real	?
 I	Human	?
-I	1000	?
-I	Foll	?
-I	Twitter	?
+O	1000	?
+O	Foll	?
+B	Twitter	?
 O	=	?
 O	25rb	?
 O	3000	?
 O	Foll	?
-O	Twitter	?
+B	Twitter	?
 O	=	?
 O	50rb	?
 O	5000	?
 O	Foll	?
-O	Twitter	?
+B	Twitter	?
 O	=	?
 O	75Rb	?
 O	WA/SMS	?
@@ -30495,7 +30495,7 @@ O	you	?
 O	better	?
 O	:-)	?
 	
-O	God	?
+B	God	?
 O	help	?
 O	me	?
 O	http://t.co/1O6QiImRQ0	?
@@ -30661,7 +30661,7 @@ O	💑💖	?
 O	😍😍😍😍😍😍😍	?
 O	(	?
 O	with	?
-O	Asrin	?
+B	Asrin	?
 O	)	?
 O	[	?
 O	pic	?
@@ -30684,13 +30684,13 @@ O	queen	?
 O	Girls	?
 O	’	?
 O	Generation’s	?
-O	Jessica	?
+B	Jessica	?
 O	shares	?
 O	about	?
 O	her	?
 O	‘	?
-O	Ice	?
-O	Princess	?
+B	Ice	?
+I	Princess	?
 O	’	?
 O	nickname	?
 O	and	?
@@ -30750,7 +30750,7 @@ O	Bill	?
 O	Bellamy	?
 O	hosting	?
 O	.	?
-O	Jersey	?
+B	Jersey	?
 O	is	?
 O	in	?
 O	the	?
@@ -30773,8 +30773,8 @@ O	the	?
 O	11	?
 O	million	?
 O	@ESPNFantasy	?
-O	Tournament	?
-O	Challenge	?
+B	Tournament	?
+I	Challenge	?
 O	brackets	?
 O	are	?
 O	still	?
@@ -30895,7 +30895,7 @@ O	not	?
 O	?!	?
 O	"	?
 O	~	?
-O	Riki	?
+B	Riki	?
 O	#AiNoKusabi	?
 	
 O	#RT	?
@@ -30951,8 +30951,8 @@ O	❤	?
 O	️💙	?
 O	http://t.co/s6SWIDJ7wF	?
 	
-O	Katarina	?
-O	Get	?
+B	Katarina	?
+I	Get	?
 O	second	?
 O	runner	?
 O	Up	?
@@ -31055,10 +31055,10 @@ O	a	?
 O	time	?
 O	:)	?
 	
-B	Big	?
-I	Half	?
-I	Heart	?
-I	Rp	?
+O	Big	?
+O	Half	?
+O	Heart	?
+O	Rp	?
 O	73.000	?
 O	http://t.co/KEnYB8R5PK	?
 	
@@ -31097,7 +31097,7 @@ O	looking	?
 O	forward	?
 O	to	?
 O	seeing	?
-O	Kitt	?
+B	Kitt	?
 O	tomorrow	?
 O	🙊💕	?
 	
@@ -31155,8 +31155,8 @@ O	dick	?
 O	RT	?
 O	@TimPlewman	?
 O	:	?
-O	The	?
-O	Lions	?
+B	The	?
+I	Lions	?
 O	are	?
 O	rampant	?
 O	-	?
@@ -31220,8 +31220,8 @@ O	who	?
 O	is	?
 O	waiting	?
 O	for	?
-O	Karmy	?
-O	kiss	?
+B	Karmy	?
+I	kiss	?
 O	?	?
 O	#Karmy	?
 O	#Shipper	?
@@ -31394,7 +31394,7 @@ O	my	?
 O	family	?
 O	rooting	?
 O	for	?
-O	Argentina	?
+B	Argentina	?
 O	lol	?
 	
 O	WrightBrothers	?
@@ -31484,7 +31484,7 @@ O	.	?
 O	RT	?
 O	@joblocom	?
 O	:	?
-O	Harrison	?
+B	Harrison	?
 O	Ford	?
 O	to	?
 O	co-lead	?
@@ -31699,7 +31699,7 @@ O	.	?
 O	A	?
 O	lot	?
 O	of	?
-O	CFL	?
+B	CFL	?
 O	lamps	?
 O	given	?
 O	away	?
@@ -31746,13 +31746,13 @@ O	the	?
 B	Brillo	?
 I	Box	?
 O	http://t.co/BxMPMRFqgq	?
-O	The	?
-O	Supermodel	?
+B	The	?
+I	Supermodel	?
 O	and	?
 O	the	?
-O	Brillo	?
-O	BoxDon	?
-O	Thompson	?
+B	Brillo	?
+I	BoxDon	?
+I	Thompson	?
 O	(	?
 O	Au	?
 O	...	?
@@ -31783,7 +31783,7 @@ O	so	?
 O	shitty	?
 	
 O	This	?
-O	Bloodborne	?
+B	Bloodborne	?
 O	trailer	?
 O	shows	?
 O	really	?
@@ -31887,7 +31887,7 @@ O	option	?
 O	...	?
 O	”	?
 	
-O	Rodriguez	?
+B	Rodriguez	?
 O	is	?
 O	coming	?
 O	!	?
@@ -32057,7 +32057,7 @@ O	http://t.co/aRwygIkDeP	?
 O	#a11y	?
 O	#ARIA	?
 O	//	?
-O	CC	?
+B	CC	?
 O	@MSFTenable	?
 O	@Office36	?
 O	…	?
@@ -32321,15 +32321,15 @@ O	of	?
 O	the	?
 O	game	?
 	
-B	Le	?
-I	Club	?
+O	Le	?
+O	Club	?
 O	http://t.co/c3gDofzduE	?
 	
 O	*✧‧₊︎˚	?
 O	♡	?
 O	*✧‧	?
-O	Luke	?
-O	Hemmings	?
+B	Luke	?
+I	Hemmings	?
 O	because	?
 O	of	?
 O	you	?
@@ -32361,7 +32361,7 @@ O	Who	?
 O	remembers	?
 B	Disney	?
 I	Channel	?
-I	Games	?
+O	Games	?
 O	tho	?
 O	😂🙌	?
 O	http://t.co/GA06EDsUIu	?
@@ -32514,8 +32514,8 @@ O	Ft	?
 O	.	?
 O	@LaWandaLee	?
 O	-	?
-B	Finer	?
-I	Thangz	?
+O	Finer	?
+O	Thangz	?
 O	#Rnb	?
 O	...	?
 O	http://t.co/EA	?
@@ -32621,7 +32621,7 @@ O	like	?
 O	this	?
 O	quote	?
 	
-O	Michael	?
+B	Michael	?
 O	just	?
 O	told	?
 O	me	?
@@ -32640,8 +32640,8 @@ O	goin	?
 O	to	?
 B	Kings	?
 I	Island	?
-I	Halloween	?
-I	Haunt	?
+B	Halloween	?
+O	Haunt	?
 O	...	?
 O	yesssss	?
 O	👻🎃😬	?
@@ -32678,7 +32678,7 @@ O	#CANvsSWE	?
 O	I'm	?
 O	moving	?
 O	to	?
-O	Australia	?
+B	Australia	?
 O	today	?
 O	http://t.co/Be85y5Z879	?
 	
@@ -32728,9 +32728,9 @@ O	Secretary	?
 O	on	?
 O	#Ukraine	?
 O	|	?
-B	The	?
-I	White	?
-I	House	?
+O	The	?
+O	White	?
+O	House	?
 O	-	?
 O	http://t.co/ZhuutTPyeH	?
 O	#Crimea	?
@@ -32748,7 +32748,7 @@ O	suspect	?
 O	arrested	?
 O	in	?
 B	Spain	?
-I	http://t.co/Yh1nYhia04	?
+O	http://t.co/Yh1nYhia04	?
 	
 O	I	?
 O	woke	?
@@ -32832,8 +32832,8 @@ O	is	?
 O	my	?
 O	nigga	?
 O	”	?
-B	Waddup	?
-I	Waddup	?
+O	Waddup	?
+O	Waddup	?
 O	my	?
 O	nigga	?
 	
@@ -33015,7 +33015,7 @@ O	your	?
 O	...	?
 O	More	?
 O	for	?
-O	Sagittarius	?
+B	Sagittarius	?
 O	http://t.co/JBJkA07G8J	?
 	
 O	I'm	?
@@ -33096,7 +33096,7 @@ O	a	?
 O	team	?
 O	.	?
 O	-	?
-O	Kareem	?
+B	Kareem	?
 O	Abdul-Jabbar	?
 	
 O	Already	?
@@ -33141,11 +33141,11 @@ O	designer	?
 O	production	?
 O	artist	?
 O	:	?
-B	Graphics	?
-I	Designer	?
+O	Graphics	?
+B	Designer	?
 I	Production	?
 I	Artist	?
-I	Jobs	?
+O	Jobs	?
 O	within	?
 O	25	?
 O	mi	?
@@ -33164,7 +33164,7 @@ O	2	?
 O	,	?
 O	87-83	?
 O	.	?
-O	LeBron	?
+B	LeBron	?
 O	:	?
 O	22	?
 O	Pts	?
@@ -33176,8 +33176,8 @@ O	6	?
 O	Ast	?
 O	,	?
 O	3	?
-O	Blk	?
-O	Wade	?
+B	Blk	?
+I	Wade	?
 O	:	?
 O	23	?
 O	Pts	?
@@ -33226,8 +33226,8 @@ O	:	?
 O	Japanese	?
 O	audiences	?
 O	want	?
-O	Paper	?
-O	Mario	?
+B	Paper	?
+I	Mario	?
 O	in	?
 O	Smash	?
 O	.	?
@@ -33269,8 +33269,8 @@ O	all	?
 O	dirty😂😂😂😂😂😂	?
 O	@jeyethem	?
 	
-B	Gossip	?
-I	Girl	?
+O	Gossip	?
+O	Girl	?
 O	is	?
 O	emosh	?
 O	x	?
@@ -33486,7 +33486,7 @@ O	@nasserynlamejor	?
 O	Bon	?
 O	dia	?
 O	,	?
-O	Nasseryn	?
+B	Nasseryn	?
 O	!!	?
 	
 O	RT	?
@@ -33497,7 +33497,7 @@ O	if	?
 O	you	?
 O	remember	?
 O	when	?
-O	Miley	?
+B	Miley	?
 O	tried	?
 O	to	?
 O	prank	?
@@ -33539,9 +33539,9 @@ O	us	?
 O	?	?
 O	”	?
 	
-O	Jeanne	?
-O	Renae	?
-O	E	?
+B	Jeanne	?
+I	Renae	?
+I	E	?
 O	.	?
 O	Macachor	?
 O	!!	?
@@ -33560,18 +33560,18 @@ O	x667	?
 	
 O	Free	?
 O	Trading	?
-B	Strategy	?
-I	Market	?
-I	Reports	?
-I	IntraDay_SDB_MR_15min_EURJPY	?
+O	Strategy	?
+O	Market	?
+O	Reports	?
+O	IntraDay_SDB_MR_15min_EURJPY	?
 O	http://t.co/bmeEDi7mb6	?
 O	from	?
 O	http://t.co/RiINDVPQ37	?
 	
-B	Photo	?
-I	Of	?
-I	The	?
-I	Day	?
+O	Photo	?
+O	Of	?
+O	The	?
+O	Day	?
 O	#Photography	?
 O	Cormoran	?
 O	by	?
@@ -33595,9 +33595,9 @@ O	of	?
 O	adults	?
 O	.	?
 	
-O	Western	?
-O	Civ	?
-O	Midterm	?
+B	Western	?
+I	Civ	?
+I	Midterm	?
 O	tomorrow	?
 O	.	?
 O	I'm	?
@@ -33667,10 +33667,10 @@ O	Best	?
 O	Experts	?
 O	on	?
 O	#Korea	?
-B	Military	?
-I	Mom	?
-I	Talk	?
-I	Radio	?
+O	Military	?
+O	Mom	?
+O	Talk	?
+O	Radio	?
 O	with	?
 O	@sandrabeck	?
 O	Listen	?
@@ -33763,11 +33763,11 @@ O	#free	?
 O	,	?
 O	#dating	?
 O	,	?
-B	Cute	?
-I	Teen	?
+O	Cute	?
+B	Teen	?
 I	Cum	?
 O	With	?
-O	Vibrator	?
+B	Vibrator	?
 O	.	?
 O	Close	?
 O	up	?
@@ -33889,7 +33889,7 @@ O	I	?
 O	DIDNT	?
 O	WANT	?
 O	TO	?
-B	HAPPEN	?
+O	HAPPEN	?
 	
 O	Nothing	?
 O	like	?
@@ -33923,7 +33923,7 @@ O	http://t.co/HqYokkHRsE	?
 O	New	?
 O	Smartwatch	?
 O	by	?
-O	Kairos	?
+B	Kairos	?
 O	is	?
 O	actually	?
 O	a	?
@@ -33943,7 +33943,7 @@ O	latest	?
 O	Hazrati	?
 O	styles	?
 O	at	?
-O	Jewelry	?
+B	Jewelry	?
 O	at	?
 O	.	?
 O	Free	?
@@ -33992,7 +33992,7 @@ O	earning	?
 O	#mPOINTS	?
 O	Rewards	?
 O	in	?
-B	ScanLife	?
+O	ScanLife	?
 O	.	?
 O	http://t.co/XEd8EpkZfx	?
 	
@@ -34008,7 +34008,7 @@ O	Go	?
 O	“	?
 O	Behind	?
 O	the	?
-O	Mike	?
+B	Mike	?
 O	”	?
 O	on	?
 O	SOTR’s	?
@@ -34183,7 +34183,7 @@ O	!	?
 O	See	?
 O	you	?
 O	in	?
-O	Cali	?
+B	Cali	?
 O	next	?
 O	week	?
 O	!	?
@@ -34257,8 +34257,8 @@ O	RT	?
 O	@LollyDaskal	?
 O	:	?
 O	6	?
-O	Powerful	?
-O	Questions	?
+B	Powerful	?
+I	Questions	?
 O	to	?
 O	Ask	?
 O	Yourself	?
@@ -34317,7 +34317,7 @@ O	a	?
 O	contest	?
 O	with	?
 O	my	?
-O	Ben	?
+B	Ben	?
 O	and	?
 O	Hines	?
 O	items	?
@@ -34346,8 +34346,8 @@ O	Wind	?
 O	:	?
 O	10.0	?
 O	mph	?
-B	NNW	?
-I	Force	?
+O	NNW	?
+O	Force	?
 O	3	?
 O	.	?
 O	Barometer	?
@@ -34378,11 +34378,11 @@ O	a	?
 O	@YouTube	?
 O	video	?
 O	http://t.co/9OWqvu2o4N	?
-O	Iggy	?
-O	Azalea	?
+B	Iggy	?
+I	Azalea	?
 O	-	?
-O	Black	?
-O	Widow	?
+B	Black	?
+I	Widow	?
 O	ft	?
 O	.	?
 B	Rita	?
@@ -34434,8 +34434,8 @@ O	?	?
 	
 O	@elizzzaaaa_	?
 O	LOLOL	?
-B	YEAH	?
-I	DUDE	?
+O	YEAH	?
+O	DUDE	?
 	
 O	RT	?
 O	@ComedyOrTruth	?
@@ -34461,7 +34461,7 @@ O	http://t.co/O1sUR4elW8	?
 O	RT	?
 O	@WorldStarLol	?
 O	:	?
-O	USA	?
+B	USA	?
 O	vs	?
 O	Germany	?
 O	Thursday	?
@@ -34591,8 +34591,8 @@ O	JUST	?
 O	ASKED	?
 O	ME	?
 O	IF	?
-B	TYLER	?
-I	HOECHLIN	?
+O	TYLER	?
+O	HOECHLIN	?
 O	WAS	?
 O	THE	?
 O	GUY	?
@@ -34690,8 +34690,8 @@ O	have	?
 O	to	?
 O	!	?
 	
-O	Wena	?
-O	Shugz	?
+B	Wena	?
+I	Shugz	?
 O	you	?
 O	don't	?
 O	think	?
@@ -34710,7 +34710,7 @@ O	.	?
 O	"	?
 O	Candee_Leigh	?
 O	:	?
-O	Nami	?
+B	Nami	?
 O	i	?
 O	want	?
 O	a	?
@@ -34720,21 +34720,21 @@ O	flowers	?
 O	:"(	?
 O	..	?
 	
-O	Dr	?
-O	Boyce	?
-O	Watkins	?
+B	Dr	?
+I	Boyce	?
+I	Watkins	?
 O	:	?
 O	How	?
-B	Donald	?
-I	Sterling	?
+O	Donald	?
+O	Sterling	?
 O	bought	?
 O	the	?
 O	NAACP’s	?
 O	loyalty	?
 O	|	?
-O	Black	?
-O	Like	?
-O	Moi	?
+B	Black	?
+I	Like	?
+I	Moi	?
 O	http://t.co/DiEWnBuzTl	?
 	
 O	298	?
@@ -34949,7 +34949,7 @@ O	:	?
 O	*	?
 O	goes	?
 O	on	?
-O	twitter	?
+B	twitter	?
 O	*	?
 O	me	?
 O	:	?
@@ -34993,8 +34993,8 @@ O	la	?
 O	big	?
 O	horloge	?
 O	;	?
-O	London	?
-O	Eye	?
+B	London	?
+I	Eye	?
 O	la	?
 O	grande	?
 O	roue	?
@@ -35072,8 +35072,8 @@ O	time	?
 O	lol	?
 O	🕑😄	?
 	
-B	Puto	?
-I	WhatsApp	?
+O	Puto	?
+O	WhatsApp	?
 	
 O	RT	?
 O	@DejaJones22	?
@@ -35083,10 +35083,10 @@ O	n	?
 O	shit	?
 O	😒	?
 	
-B	CoD	?
-I	Ghost	?
+O	CoD	?
+O	Ghost	?
 O	With	?
-B	LushiousX	?
+O	LushiousX	?
 O	:	?
 O	http://t.co/q0pkDVPnJa	?
 	
@@ -35383,7 +35383,7 @@ O	you	?
 O	don't	?
 O	have	?
 O	a	?
-O	Carter	?
+B	Carter	?
 O	follow	?
 O	I'm	?
 O	gonna	?
@@ -35424,22 +35424,22 @@ O	Chos	?
 O	.	?
 O	Happy	?
 O	Birthday	?
-O	Julia	?
-O	B	?
+B	Julia	?
+I	B	?
 O	!!	?
 O	😍😘	?
 	
 O	Sealed	?
 O	With	?
 O	A	?
-O	Kiss	?
-O	US	?
-O	Union	?
-B	Jack	?
+B	Kiss	?
+I	US	?
+I	Union	?
+I	Jack	?
 I	Flag	?
-I	Sealed	?
-I	Finished	?
-I	Bottle	?
+O	Sealed	?
+O	Finished	?
+O	Bottle	?
 O	Caps	?
 O	(	?
 O	FE127	?
@@ -35528,7 +35528,7 @@ O	best	?
 O	team	?
 O	in	?
 O	the	?
-O	East	?
+B	East	?
 O	.	?
 O	”	?
 	
@@ -35586,7 +35586,7 @@ O	Yo	?
 O	@Michael5SOS	?
 O	I'm	?
 O	in	?
-O	Sydney	?
+B	Sydney	?
 O	lets	?
 O	do	?
 O	something	?
@@ -35617,7 +35617,7 @@ O	http://t.co/bStOF8lsfw	?
 	
 O	@lulu_ish	?
 O	hey	?
-B	Girl	?
+O	Girl	?
 	
 O	RT	?
 O	@novapbs	?
@@ -35715,8 +35715,8 @@ O	DM	?
 O	the	?
 O	link	?
 O	#MTVHottest	?
-B	The	?
-I	Vamps	?
+O	The	?
+O	Vamps	?
 	
 O	@_ohgabbiee	?
 O	okayy	?
@@ -35914,7 +35914,7 @@ O	to	?
 O	tweet	?
 O	something	?
 O	about	?
-O	Avalanna	?
+B	Avalanna	?
 O	or	?
 O	I'm	?
 O	probably	?
@@ -35931,7 +35931,7 @@ O	Everyone	?
 O	bothers	?
 O	me	?
 	
-O	Kat	?
+B	Kat	?
 O	thought	?
 O	all	?
 O	of	?
@@ -35995,10 +35995,10 @@ O	epic	?
 O	A	?
 O	Tough	?
 O	Corporate	?
-O	Job	?
-O	Asks	?
-O	One	?
-O	Question	?
+B	Job	?
+I	Asks	?
+I	One	?
+I	Question	?
 O	:	?
 O	Can	?
 O	You	?
@@ -36119,13 +36119,13 @@ O	I	?
 O	JUST	?
 O	AW'D	?
 O	OUT	?
-B	LOUD	?
+O	LOUD	?
 	
 O	MUSIC	?
 O	:	?
 O	GT	?
-O	The	?
-O	Guitarman	?
+B	The	?
+I	Guitarman	?
 O	–	?
 O	Coolu	?
 O	Down	?
@@ -36263,8 +36263,8 @@ O	Nurse	?
 O	-	?
 O	SNA	?
 O	-	?
-B	St.	?
-I	Joseph's	?
+O	St.	?
+B	Joseph's	?
 I	Health	?
 O	:	?
 O	(	?
@@ -36291,10 +36291,10 @@ O	@cagle_breanna	?
 O	“	?
 O	@Mention_Lea	?
 O	:	?
-O	Shawnda	?
-O	All	?
-O	Cause	?
-O	Of	?
+B	Shawnda	?
+I	All	?
+I	Cause	?
+I	Of	?
 O	You	?
 O	I	?
 O	Can't	?
@@ -36389,8 +36389,8 @@ O	:	?
 O	Weird	?
 O	new	?
 O	"	?
-O	Miracle	?
-O	Fruit	?
+B	Miracle	?
+I	Fruit	?
 O	"	?
 O	proven	?
 O	to	?
@@ -36504,8 +36504,8 @@ I	Taveras	?
 O	in	?
 O	a	?
 O	Dominican	?
-O	Winter	?
-O	League	?
+B	Winter	?
+I	League	?
 O	http://t.co/PNokrIw3B4	?
 	
 O	RT	?
@@ -36678,14 +36678,14 @@ O	:	?
 O	Razer	?
 O	Orbweaver	?
 O	Gaming	?
-O	Pad	?
-O	Unboxing	?
+B	Pad	?
+I	Unboxing	?
 O	&	?
 O	amp	?
 O	;	?
 O	First	?
-O	Look	?
-O	Linus	?
+B	Look	?
+I	Linus	?
 O	...	?
 O	http://t.co/u2wWyiiQYa	?
 O	#Computer	?
@@ -36744,8 +36744,8 @@ O	RT	?
 O	@hemmo_horanx	?
 O	:	?
 O	🐧💕🐧💕🐧💕	?
-O	Luke	?
-O	Hemmings	?
+B	Luke	?
+I	Hemmings	?
 O	from	?
 O	5SOS	?
 O	Please	?
@@ -36815,7 +36815,7 @@ O	mind	?
 O	when	?
 O	speaking	?
 O	about	?
-O	Delhi	?
+B	Delhi	?
 O	is	?
 B	Taj	?
 I	Mahal	?
@@ -36883,7 +36883,7 @@ O	of	?
 O	my	?
 O	life	?
 	
-O	McKenna	?
+B	McKenna	?
 O	Hates	?
 O	me	?
 O	and	?
@@ -37037,7 +37037,7 @@ O	#Np	?
 O	PARTYNEXTDOOR	?
 O	x	?
 O	Her	?
-B	Way	?
+O	Way	?
 	
 O	@PhilKitro	?
 O	no	?
@@ -37217,7 +37217,7 @@ O	the	?
 O	only	?
 O	ones	?
 O	with	?
-O	twitter	?
+B	twitter	?
 O	so	?
 O	any	?
 O	of	?
@@ -37339,8 +37339,8 @@ O	http://t.co/0DiU340isA	?
 O	RT	?
 O	@Kataloghargacom	?
 O	:	?
-O	GAUDI	?
-O	Sale	?
+B	GAUDI	?
+I	Sale	?
 O	up	?
 O	to	?
 O	70%	?
@@ -37412,8 +37412,8 @@ O	#Nowplaying	?
 O	♫	?
 O	Until	?
 O	The	?
-O	Ribbon	?
-O	Breaks	?
+B	Ribbon	?
+I	Breaks	?
 O	-	?
 O	Romeo	?
 O	on	?
@@ -37512,7 +37512,7 @@ O	.	?
 O	RT	?
 O	@abeaujon	?
 O	:	?
-O	Jesus	?
+B	Jesus	?
 O	,	?
 O	this	?
 O	from	?
@@ -37650,8 +37650,8 @@ O	THE	?
 O	VERY	?
 O	FIRST	?
 O	TIME	?
-O	OH	?
-O	YEAH	?
+B	OH	?
+I	YEAH	?
 O	\m/	?
 O	rak	?
 O	na	?
@@ -37835,9 +37835,9 @@ O	️	?
 O	http://t.co/JUJIRXkpt0	?
 	
 O	Meanwhile	?
-B	Gwinnett	?
-I	County	?
-I	Schools	?
+O	Gwinnett	?
+O	County	?
+O	Schools	?
 O	http://t.co/4s94VBNIWa	?
 	
 O	RT	?
@@ -37926,13 +37926,13 @@ O	#3rdyear	?
 O	#flashbackfriday	?
 O	#fbf	?
 O	@	?
-B	University	?
-I	of	?
-I	San	?
+O	University	?
+O	of	?
+B	San	?
 I	Carlos	?
 O	-	?
-O	Main	?
-O	Campus	?
+B	Main	?
+I	Campus	?
 O	http://t.co/H2jVrzcMOk	?
 	
 O	RT	?
@@ -37950,8 +37950,8 @@ O	great	?
 O	responsibilities	?
 O	.	?
 O	(	?
-O	Napoleon	?
-O	Hill	?
+B	Napoleon	?
+I	Hill	?
 O	)	?
 O	.	?
 O	"	?
@@ -38158,9 +38158,9 @@ O	.	?
 O	RT	?
 O	@seventeenmag	?
 O	:	?
-O	Little	?
-O	Mix	?
-O	killin	?
+B	Little	?
+I	Mix	?
+I	killin	?
 O	'	?
 O	it	?
 O	at	?
@@ -38239,8 +38239,8 @@ O	:	?
 O	"	?
 O	@WakeUp__America	?
 O	:	?
-O	Edward	?
-O	Snowden	?
+B	Edward	?
+I	Snowden	?
 O	http://t.co/aGretG3L1V"👌👌	?
 	
 O	Thanks	?
@@ -38373,7 +38373,7 @@ O	@DominaHEELena	?
 O	:	?
 O	Currently	?
 O	in	?
-B	Doha	?
+O	Doha	?
 O	,	?
 O	Qatar	?
 O	.	?
@@ -38557,7 +38557,7 @@ O	.	?
 O	🏈	?
 O	#BrantleyGilbert	?
 	
-O	Beyond	?
+B	Beyond	?
 O	blessed	?
 O	🙏🙌	?
 O	http://t.co/mWq9Yp0gq7	?
@@ -38582,7 +38582,7 @@ O	It's	?
 O	[	?
 O	Bob	?
 O	]	?
-O	Gibson	?
+B	Gibson	?
 O	,	?
 O	Koufax-esque	?
 O	...	?
@@ -38638,7 +38638,7 @@ O	answer	?
 O	your	?
 O	prayers	?
 O	-	?
-O	Jer	?
+B	Jer	?
 O	29:12	?
 	
 O	Im	?
@@ -38749,7 +38749,7 @@ O	for	?
 O	a	?
 O	glimpse	?
 O	of	?
-O	Mimosa	?
+B	Mimosa	?
 O	!	?
 O	#satchatUK	?
 O	#IWD2014	?
@@ -38784,8 +38784,8 @@ O	i	?
 O	don't	?
 O	care	?
 O	about	?
-B	Ralph	?
-I	tbh	?
+O	Ralph	?
+O	tbh	?
 	
 O	Deadass	?
 O	,	?
@@ -38858,8 +38858,8 @@ O	this	?
 O	October	?
 O	half-term	?
 O	:	?
-O	Span	?
-O	Arts	?
+B	Span	?
+I	Arts	?
 O	...	?
 O	http://t.co/rtCumQNp3M	?
 	
@@ -38880,8 +38880,8 @@ O	Life	?
 O	Is	?
 O	Seeing	?
 O	My	?
-B	Mom	?
-I	Cry	?
+O	Mom	?
+O	Cry	?
 O	.	?
 	
 O	RT	?
@@ -39016,20 +39016,20 @@ O	grandmas	?
 O	house	?
 	
 O	#Nevada	?
-O	NBA	?
-O	Union’s	?
-O	Roberts	?
-O	Gets	?
-O	$1.2	?
-O	Million	?
-O	Salary	?
+B	NBA	?
+I	Union’s	?
+I	Roberts	?
+I	Gets	?
+I	$1.2	?
+I	Million	?
+I	Salary	?
 O	,	?
 O	$	?
 O	600,000	?
 O	Bonus	?
 O	:	?
-O	Michele	?
-O	Roberts	?
+B	Michele	?
+I	Roberts	?
 O	will	?
 O	be	?
 O	p	?
@@ -39103,7 +39103,7 @@ O	put	?
 O	the	?
 O	money	?
 O	in	?
-O	Sarah	?
+B	Sarah	?
 O	account	?
 O	so	?
 O	she	?
@@ -39131,9 +39131,9 @@ O	:	?
 O	A	?
 O	#RNZAF	?
 O	25	?
-O	Squadron	?
-O	SBD	?
-O	Dauntless	?
+B	Squadron	?
+I	SBD	?
+I	Dauntless	?
 O	on	?
 O	Espiritu	?
 O	Santo	?
@@ -39161,8 +39161,8 @@ O	.	?
 	
 O	Instead	?
 O	of	?
-O	kecoh2	?
-O	pasal	?
+B	kecoh2	?
+I	pasal	?
 O	tu	?
 O	semua	?
 O	,	?
@@ -39198,9 +39198,9 @@ O	PRD2785	?
 O	Color	?
 O	Film	?
 O	for	?
-O	Polaroid	?
-O	600-Type	?
-O	Cameras	?
+B	Polaroid	?
+I	600-Type	?
+I	Cameras	?
 O	:	?
 O	Impossible	?
 O	PRD2785	?
@@ -39305,7 +39305,7 @@ O	fraction	?
 O	of	?
 O	Earthlings	?
 O	like	?
-O	Kanye	?
+B	Kanye	?
 O	are	?
 O	in	?
 O	.	?
@@ -39394,7 +39394,7 @@ O	we	?
 O	just	?
 O	appreciate	?
 O	how	?
-O	Ashton	?
+B	Ashton	?
 O	probably	?
 O	just	?
 O	randomly	?
@@ -39540,7 +39540,7 @@ O	doesn't	?
 O	come	?
 O	close	?
 O	to	?
-O	Chicago	?
+B	Chicago	?
 O	,	?
 O	though	?
 O	.	?
@@ -39572,7 +39572,7 @@ O	@Steve_OMG	?
 O	@Newegg	?
 O	well	?
 O	,	?
-O	Steve	?
+B	Steve	?
 O	smiles	?
 O	his	?
 O	way	?
@@ -39586,8 +39586,8 @@ O	RT	?
 O	@Bieberfeveryn	?
 O	:	?
 O	FACT-	?
-O	User	?
-B	Justin	?
+B	User	?
+I	Justin	?
 I	Bieber	?
 O	will	?
 O	never	?
@@ -39698,8 +39698,8 @@ O	#HappyBaekhyunDay	?
 O	(	?
 O	Picture	?
 O	by	?
-B	Baby	?
-I	Goodnight	?
+O	Baby	?
+O	Goodnight	?
 O	)	?
 O	http://t.co/ibxqIgS7Fd	?
 	
@@ -39916,7 +39916,7 @@ O	Sub	?
 O	:	?
 O	get	?
 O	off	?
-B	Tetris	?
+O	Tetris	?
 O	,	?
 O	no	?
 O	games	?
@@ -39963,7 +39963,7 @@ O	"	?
 B	Adam	?
 I	Vaughan	?
 O	on	?
-O	Rob	?
+B	Rob	?
 O	Ford's	?
 O	r	?
 O	…	?
@@ -40208,7 +40208,7 @@ O	.	?
 O	Next	?
 O	stop	?
 O	is	?
-O	Seattle	?
+B	Seattle	?
 O	,	?
 O	WA	?
 O	!!	?
@@ -40301,7 +40301,7 @@ O	more	?
 O	midwives	?
 O	during	?
 O	#ICMLive	?
-O	June	?
+B	June	?
 O	(&	?
 O	amp	?
 O	;	?
@@ -40327,7 +40327,7 @@ O	Debunking	?
 O	the	?
 O	myths	?
 O	about	?
-O	Gaza	?
+B	Gaza	?
 O	:	?
 O	The	?
 O	truth	?
@@ -40468,7 +40468,7 @@ O	RT	?
 O	@dachosn1	?
 O	:	?
 O	Yeah	?
-O	Jas	?
+B	Jas	?
 O	I	?
 O	do	?
 O	..	?
@@ -40795,8 +40795,8 @@ O	we	?
 O	can't	?
 O	have	?
 O	another	?
-O	Miss	?
-O	Dynamite	?
+B	Miss	?
+I	Dynamite	?
 O	!	?
 O	#YesPimpMySummerBall	?
 O	Kent	?
@@ -41064,7 +41064,7 @@ O	?	?
 O	"	?
 O	Antideutsche	?
 O	"	?
-O	Nazis	?
+B	Nazis	?
 O	with	?
 O	slogans	?
 O	"	?
@@ -41281,8 +41281,8 @@ O	@BanonokeBGriff	?
 O	:	?
 O	Roses	?
 O	and	?
-O	White	?
-O	Lilacs	?
+B	White	?
+I	Lilacs	?
 O	by	?
 B	Barbara	?
 I	Griffin	?
@@ -41293,7 +41293,7 @@ O	Just	?
 O	like	?
 O	Afrikaans	?
 O	,	?
-O	Kiwis	?
+B	Kiwis	?
 O	are	?
 O	a	?
 O	racist	?
@@ -41323,8 +41323,8 @@ O	for	?
 O	them	?
 O	.	?
 	
-O	Jadaveon	?
-O	Clowneys	?
+B	Jadaveon	?
+I	Clowneys	?
 O	official	?
 O	time	?
 O	might	?
@@ -41400,7 +41400,7 @@ O	.	?
 O	B.o.B	?
 O	)	?
 O	by	?
-O	Jessie	?
+B	Jessie	?
 O	J	?
 O	—	?
 O	https://t.co/VFmkxEInNl	?
@@ -41499,8 +41499,8 @@ O	@sj_iriszhu	?
 O	:	?
 O	D	?
 O	&amp;	?
-B	E	?
-I	Japan	?
+O	E	?
+B	Japan	?
 I	Tour	?
 I	Photobook	?
 I	Scan	?
@@ -41542,7 +41542,7 @@ O	-dentists	?
 O	and	?
 O	people	?
 O	with	?
-B	PhDs	?
+O	PhDs	?
 	
 O	RT	?
 O	@provxsion	?
@@ -41551,7 +41551,7 @@ O	Do	?
 O	people	?
 O	realize	?
 O	that	?
-O	john	?
+B	john	?
 O	green	?
 O	is	?
 O	not	?
@@ -41601,8 +41601,8 @@ O	http://t.co/DiywKrqMoK	?
 O	RT	?
 O	@Ramonaspierre	?
 O	:	?
-O	Jesus	?
-O	fuck	?
+B	Jesus	?
+I	fuck	?
 O	is	?
 O	there	?
 O	no	?
@@ -41653,8 +41653,8 @@ O	somewhere	?
 O	with	?
 O	you	?
 O	.	?
-O	-Kenny	?
-O	Chesney	?
+B	-Kenny	?
+I	Chesney	?
 	
 O	RT	?
 O	@Confusiadaf8	?
@@ -41929,8 +41929,8 @@ O	Clear	?
 O	-	?
 O	9:37	?
 O	PM	?
-O	EDT	?
-O	Apr	?
+B	EDT	?
+I	Apr	?
 O	.	?
 O	16	?
 O	http://t.co/j51IknMjo8	?
@@ -42003,7 +42003,7 @@ O	to	?
 O	pay	?
 O	to	?
 O	see	?
-O	Calum	?
+B	Calum	?
 O	?	?
 	
 O	RT	?
@@ -42200,7 +42200,7 @@ O	in	?
 O	it	?
 O	?	?
 O	:)	?
-O	MC	?
+B	MC	?
 	
 O	I	?
 O	just	?
@@ -42236,16 +42236,16 @@ O	freezer	?
 O	http://t.co/w7opXx2Y50	?
 	
 O	To	?
-O	God	?
+B	God	?
 O	be	?
 O	the	?
 O	Glory	?
 O	!	?
 O	Happy	?
-B	Anniversary	?
-I	Ang	?
-I	Dating	?
-I	Daan	?
+O	Anniversary	?
+O	Ang	?
+O	Dating	?
+O	Daan	?
 O	!	?
 O	#Happy34YearsADD	?
 O	http://t.co/yuUkRfVqja	?
@@ -42434,10 +42434,10 @@ O	#Facebook	?
 O	Free	?
 O	Codes	?
 O	:	?
-O	Ufone	?
+B	Ufone	?
 O	*	?
 O	3434#	?
-O	Jazz	?
+B	Jazz	?
 O	*	?
 O	114*5#	?
 O	Zong	?
@@ -42446,8 +42446,8 @@ O	6464*4#	?
 O	100%	?
 O	Working	?
 O	!	?
-B	Checked	?
-I	Enjoy	?
+O	Checked	?
+O	Enjoy	?
 O	Friends	?
 O	;	?
 O	HAMDAN	?
@@ -42469,8 +42469,8 @@ O	EP	?
 O	http://t.co/FD7q6i9Txl	?
 O	http://t.co/JJYCVyTu42	?
 	
-O	Chris	?
-O	Paul	?
+B	Chris	?
+I	Paul	?
 O	playin	?
 O	wit	?
 O	a	?
@@ -42482,8 +42482,8 @@ O	Principal	?
 O	Firmware	?
 O	Engineer	?
 O	-	?
-O	Tyco	?
-O	SP	?
+B	Tyco	?
+I	SP	?
 O	(	?
 O	Westford	?
 O	,	?
@@ -42527,8 +42527,8 @@ O	are	?
 O	.	?
 O	"	?
 O	-	?
-B	Amy	?
-I	Poehler	?
+O	Amy	?
+O	Poehler	?
 O	#GoldenGlobes	?
 	
 O	Spain	?
@@ -42546,7 +42546,7 @@ O	http://t.co/lXxnkPQuAQ	?
 O	RT	?
 O	@selenarusso	?
 O	:	?
-O	Selena	?
+B	Selena	?
 O	unfollowed	?
 O	everyone	?
 O	on	?
@@ -42728,8 +42728,8 @@ I	Shockey	?
 O	,	?
 O	you	?
 O	are	?
-B	Lord	?
-I	Farquaad	?
+O	Lord	?
+O	Farquaad	?
 O	@kf	?
 O	…	?
 	
@@ -42787,9 +42787,9 @@ O	this	?
 O	awesome	?
 O	#Back2School	?
 O	$100	?
-O	Target	?
-O	Gift	?
-O	Card	?
+B	Target	?
+I	Gift	?
+I	Card	?
 O	#Giveaway	?
 O	Ends	?
 O	7/24	?
@@ -42946,7 +42946,7 @@ B	Memory	?
 I	Cards	?
 I	Using	?
 I	Command	?
-I	Prompt	?
+O	Prompt	?
 O	http://t.co/swlK6nIh2r	?
 O	http://t.co/1SqegJLSLp	?
 	
@@ -43066,7 +43066,7 @@ O	y	?
 O	...	?
 O	More	?
 O	for	?
-O	Gemini	?
+B	Gemini	?
 O	http://t.co/lM1mvx8tE9	?
 	
 O	RT	?
@@ -43185,7 +43185,7 @@ O	Sexy	?
 O	blacked	?
 O	out	?
 O	#Jeep	?
-O	Rubicon	?
+B	Rubicon	?
 O	😍😈	?
 O	http://t.co/APU89dZe6G	?
 	
@@ -43389,8 +43389,8 @@ O	WHITE	?
 O	GIRL	?
 O	http://t.co/x2Gw71A2RF	?
 	
-O	OKC	?
-O	gone	?
+B	OKC	?
+I	gone	?
 O	take	?
 O	the	?
 O	next	?
@@ -43505,8 +43505,8 @@ O	,	?
 O	A	?
 O	Place	?
 O	to	?
-O	Bury	?
-O	Strangers	?
+B	Bury	?
+I	Strangers	?
 O	(	?
 O	11	?
 O	)	?
@@ -43514,7 +43514,7 @@ O	&	?
 O	amp	?
 O	;	?
 O	The	?
-O	Vaccines	?
+B	Vaccines	?
 O	(	?
 O	7	?
 O	)	?
@@ -43526,9 +43526,9 @@ O	Doom	?
 O	And	?
 O	Gloom	?
 O	(	?
-O	Jeff	?
-O	Bhasker	?
-O	Mix	?
+B	Jeff	?
+I	Bhasker	?
+I	Mix	?
 O	)	?
 O	by	?
 O	The	?
@@ -43577,8 +43577,8 @@ O	when	?
 O	they're	?
 O	rolling	?
 O	out	?
-B	Andy	?
-I	Gray	?
+O	Andy	?
+O	Gray	?
 O	as	?
 O	co-commentator	?
 O	again	?
@@ -43669,8 +43669,8 @@ O	x60	?
 	
 B	NY	?
 I	State	?
-O	of	?
-O	Mind	?
+I	of	?
+I	Mind	?
 O	does	?
 O	it	?
 O	for	?
@@ -43694,7 +43694,7 @@ O	trucks	?
 O	could	?
 O	be	?
 O	on	?
-O	Nevada	?
+B	Nevada	?
 O	roads	?
 O	by	?
 O	next	?
@@ -43704,7 +43704,7 @@ O	Two	?
 O	18-wheeler	?
 O	trucks	?
 O	in	?
-O	Nevada	?
+B	Nevada	?
 O	ha	?
 O	...	?
 O	http://t.co/fMiUSno4mH	?
@@ -43971,8 +43971,8 @@ O	FIRST	?
 O	RESPONSIBILITY	?
 O	of	?
 O	the	?
-B	Federal	?
-I	Government	?
+O	Federal	?
+O	Government	?
 O	?	?
 O	Troll	?
 O	ILLEGAL	?
@@ -44025,9 +44025,9 @@ O	http://t.co/5wkPNmMZcF	?
 O	RT	?
 O	@YourFoodPorn	?
 O	:	?
-O	Double	?
-O	Bacon	?
-O	Cheeseburger	?
+B	Double	?
+I	Bacon	?
+I	Cheeseburger	?
 O	with	?
 O	Curly	?
 O	Fries	?
@@ -44036,7 +44036,7 @@ O	http://t.co/i3R4sshlbI	?
 O	RT	?
 O	@jimaasgier	?
 O	:	?
-O	Mixtape	?
+B	Mixtape	?
 O	7	?
 O	#YC7	?
 O	Trailer	?
@@ -44100,7 +44100,7 @@ O	:	?
 O	In	?
 O	2011	?
 O	,	?
-O	Fredericton	?
+B	Fredericton	?
 O	police	?
 O	gave	?
 O	out	?
@@ -44458,15 +44458,15 @@ O	:	?
 O	Great	?
 O	Flashback	?
 O	of	?
-O	Madonna	?
+B	Madonna	?
 O	back	?
 O	in	?
 O	1984	?
 O	at	?
 O	the	?
-B	New	?
-I	Music	?
-I	Seminar	?
+O	New	?
+O	Music	?
+O	Seminar	?
 O	in	?
 O	1984	?
 O	.	?
@@ -44539,7 +44539,7 @@ O	new	?
 O	photo	?
 O	to	?
 B	Facebook	?
-I	http://t.co/GrR9GS0HK1	?
+O	http://t.co/GrR9GS0HK1	?
 	
 O	With	?
 O	@riaaprianti	?
@@ -44548,10 +44548,10 @@ B	Esti	?
 I	Putri	?
 O	,	?
 O	and	?
-O	Putri	?
+B	Putri	?
 O	at	?
-O	Granny's	?
-O	Nest	?
+B	Granny's	?
+I	Nest	?
 O	—	?
 O	https://t.co/uygQmyiL8y	?
 	
@@ -44709,7 +44709,7 @@ O	are	?
 O	blowing	?
 O	up	?
 O	my	?
-O	twitter	?
+B	twitter	?
 O	!	?
 O	I'll	?
 O	answer	?
@@ -44720,7 +44720,7 @@ O	ONLY	?
 O	1	?
 O	time	?
 O	!	?
-O	Magcon	?
+B	Magcon	?
 O	is	?
 O	NOT	?
 O	over	?
@@ -44852,8 +44852,8 @@ O	something	?
 O	stupid	?
 O	"	?
 O	by	?
-B	Frank	?
-I	Sinatra	?
+O	Frank	?
+O	Sinatra	?
 	
 O	RT	?
 O	@CierraLogan	?
@@ -45086,8 +45086,8 @@ O	Rise	?
 O	and	?
 O	Fall	?
 O	of	?
-B	Flappy	?
-I	Bird	?
+O	Flappy	?
+O	Bird	?
 O	and	?
 O	More	?
 O	http://t.co/UlyxbrFkj1	?
@@ -45191,8 +45191,8 @@ O	Year	?
 O	#Finalist	?
 O	:	?
 O	The	?
-B	Glasgow	?
-I	Curse	?
+O	Glasgow	?
+O	Curse	?
 O	by	?
 O	@TheGlasgowCurse	?
 O	#NYTimes	?
@@ -45988,7 +45988,7 @@ O	@mikebok	?
 O	@kzelnio	?
 O	Heck	?
 O	if	?
-O	Sweden	?
+B	Sweden	?
 O	starts	?
 O	selling	?
 O	real	?
@@ -46194,7 +46194,7 @@ O	could	?
 O	say	?
 O	I'm	?
 O	a	?
-O	Cali	?
+B	Cali	?
 O	girl	?
 O	that	?
 O	loves	?
@@ -46211,7 +46211,7 @@ O	the	?
 O	family	?
 O	is	?
 O	from	?
-O	Texas	?
+B	Texas	?
 O	.	?
 O	That	?
 O	is	?
@@ -46272,8 +46272,8 @@ O	longer	?
 O	.	?
 O	"	?
 O	Ralph	?
-O	Waldo	?
-O	Emerson	?
+B	Waldo	?
+I	Emerson	?
 O	quote	?
 	
 O	Raven	?
@@ -46367,8 +46367,8 @@ O	#heartlikemine	?
 O	http://t.co/KihMFrG6IS	?
 	
 O	"	?
-O	New	?
-O	York	?
+B	New	?
+I	York	?
 O	Today	?
 O	:	?
 O	Easy	?
@@ -46380,8 +46380,8 @@ O	by	?
 O	ANDY	?
 O	NEWMAN	?
 O	and	?
-O	ANNIE	?
-O	CORREAL	?
+B	ANNIE	?
+I	CORREAL	?
 O	via	?
 O	NYT	?
 O	http://t.co/pbL5Y6BOMH	?
@@ -46638,9 +46638,9 @@ O	😅👋😌👌	?
 O	…	?
 	
 O	I	?
-O	Broke	?
-O	My	?
-O	Phone	?
+B	Broke	?
+I	My	?
+I	Phone	?
 O	&	?
 O	gt	?
 O	;	?
@@ -46715,8 +46715,8 @@ O	Beats	?
 O	by	?
 O	dr.	?
 O	dre	?
-O	Earphones	?
-O	Headphones	?
+B	Earphones	?
+I	Headphones	?
 O	,	?
 O	73.038%	?
 O	off	?
@@ -46840,9 +46840,9 @@ O	a	?
 O	Day	?
 O	in	?
 O	Social	?
-O	Media	?
-O	Look	?
-O	Like	?
+B	Media	?
+I	Look	?
+I	Like	?
 O	?	?
 O	[	?
 O	Infographic	?
@@ -46956,7 +46956,7 @@ O	BBE	?
 O	”	?
 O	IM	?
 O	SO	?
-O	EXCITED	?
+B	EXCITED	?
 O	”	?
 O	ILL	?
 O	CRY	?
@@ -46998,7 +46998,7 @@ O	my	?
 O	timeline	?
 O	http://t.co/sYM246rSOn	?
 	
-O	Kano	?
+B	Kano	?
 O	is	?
 O	one	?
 O	of	?
@@ -47109,8 +47109,8 @@ O	.	?
 O	RT	?
 O	@SBNation	?
 O	:	?
-O	The	?
-B	Washington	?
+B	The	?
+I	Washington	?
 I	Post	?
 O	used	?
 O	an	?
@@ -47158,8 +47158,8 @@ O	:	?
 B	Kansas	?
 I	City	?
 I	The	?
-I	Job	?
-I	Window	?
+O	Job	?
+O	Window	?
 O	is	?
 O	looking	?
 O	to	?
@@ -47233,9 +47233,9 @@ O	bag	?
 	
 O	@CharChristAD	?
 O	North	?
-O	Carolina	?
-O	K/P	?
-B	Jason	?
+B	Carolina	?
+I	K/P	?
+I	Jason	?
 I	Stricker	?
 O	named	?
 O	2x	?
@@ -47689,7 +47689,7 @@ O	up	?
 O	a	?
 O	girl	?
 O	on	?
-O	twitter	?
+B	twitter	?
 O	that	?
 O	he	?
 O	was	?
@@ -47829,8 +47829,8 @@ O	Medical	?
 O	Records	?
 O	Experience	?
 O	?	?
-B	Call	?
-I	Robert	?
+O	Call	?
+B	Robert	?
 I	Half	?
 I	Healthcare	?
 O	!!	?
@@ -47900,8 +47900,8 @@ O	psychologist	?
 O	,	?
 O	and	?
 O	from	?
-O	Time	?
-O	Burton	?
+B	Time	?
+I	Burton	?
 O	and	?
 O	Haya	?
 	
@@ -47959,11 +47959,11 @@ O	up	?
 O	multiple	?
 O	OEMs	?
 O	in	?
-O	India	?
+B	India	?
 O	&	?
 O	amp	?
 O	;	?
-O	China	?
+B	China	?
 	
 O	Classes	?
 O	for	?
@@ -48041,7 +48041,7 @@ O	Repath	?
 O	:D	?
 O	(	?
 O	with	?
-O	Fahmi	?
+B	Fahmi	?
 O	)	?
 O	[	?
 O	pic	?
@@ -48090,13 +48090,13 @@ O	wish	?
 O	I	?
 O	was	?
 O	at	?
-B	Comic	?
-I	Con	?
+O	Comic	?
+O	Con	?
 	
 O	#MobileTechnology	?
 O	Latest	?
-O	Google	?
-O	Glass	?
+B	Google	?
+I	Glass	?
 O	update	?
 O	syncs	?
 O	your	?
@@ -48347,8 +48347,8 @@ O	porous	?
 O	.	?
 O	Read	?
 O	"	?
-O	Smuggler	?
-O	Nation	?
+B	Smuggler	?
+I	Nation	?
 O	"	?
 O	for	?
 O	the	?
@@ -48461,7 +48461,7 @@ O	:	?
 O	The	?
 B	Amazon	?
 I	Partner	?
-I	Program	?
+O	Program	?
 O	For	?
 O	Dummies	?
 O	http://t.co/24PAENq72L	?
@@ -48580,9 +48580,9 @@ O	Missed	?
 O	crucial	?
 O	run-in	?
 O	.	?
-B	Missed	?
-I	World	?
-I	Cup	?
+O	Missed	?
+O	World	?
+O	Cup	?
 O	.	?
 O	Misses	?
 O	our	?
@@ -48916,8 +48916,8 @@ O	:	?
 B	Children's	?
 I	Dinosaur	?
 I	Shoes	?
-I	T	?
-I	Rex	?
+O	T	?
+B	Rex	?
 I	Black	?
 I	Hi	?
 O	by	?
@@ -48982,7 +48982,7 @@ O	@WeLoveRobDyrdek	?
 O	:	?
 O	BOBBY	?
 O	SHMURDA’S	?
-O	CAT	?
+B	CAT	?
 O	http://t.co/HHj92SXNU8	?
 	
 O	DIANA	?
@@ -49016,8 +49016,8 @@ O	goodbye	?
 O	..	?
 	
 O	#NOWPLAYING	?
-O	MC	?
-O	Ceja	?
+B	MC	?
+I	Ceja	?
 O	-	?
 B	Queria	?
 I	Perrear	?
@@ -49087,7 +49087,7 @@ O	the	?
 O	@Braves	?
 O	now	?
 O	on	?
-O	MLBN	?
+B	MLBN	?
 O	!	?
 O	http	?
 O	:	?
@@ -49176,7 +49176,7 @@ O	a	?
 O	whore	?
 O	.	?
 O	-Bee	?
-O	Krualphan	?
+B	Krualphan	?
 	
 O	You	?
 O	could	?
@@ -49239,9 +49239,9 @@ O	RT	?
 O	@HistoryInPix	?
 O	:	?
 O	The	?
-B	Red	?
-I	Hot	?
-I	Chili	?
+O	Red	?
+O	Hot	?
+B	Chili	?
 I	Peppers	?
 O	http://t.co/fKMDHHhQ0w	?
 	
@@ -49284,7 +49284,7 @@ O	go	?
 O	watch	?
 O	@ShawnMendes	?
 O	on	?
-O	YouTube	?
+B	YouTube	?
 O	and	?
 O	you	?
 O	will	?
@@ -49428,8 +49428,8 @@ O	was	?
 O	confused	?
 O	I	?
 O	thought	?
-O	Demi	?
-O	Lovato	?
+B	Demi	?
+I	Lovato	?
 O	sang	?
 O	Let	?
 O	It	?
@@ -49740,9 +49740,9 @@ O	myself	?
 O	today	?
 O	(:	?
 	
-O	AAAAAAARTPOP	?
-O	#MTVHottest	?
-B	Lady	?
+B	AAAAAAARTPOP	?
+I	#MTVHottest	?
+I	Lady	?
 I	Gaga	?
 	
 O	New	?
@@ -49937,7 +49937,7 @@ O	long	?
 O	as	?
 O	I	?
 O	have	?
-O	Luhan	?
+B	Luhan	?
 O	:)	?
 	
 O	No	?
