@@ -70,7 +70,7 @@ def extract_features_for_sentence1(tokens):
         for featureType in ["hashtag", "mention", "retweet","url","symoticon", "apossuffix", "date"]:
             stripstring += "\t" + featureType + "=" + str(strip_feature(featureType, w))
         
-        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i"+stripstring+"\tlowercased=%(lowercased)s\taffix1=%(affix1)s\tsuffix1=%(suffix1)s\taffix2=%(affix2)s\tsuffix2=%(suffix2)s\taffix3=%(affix3)s\tsuffix3=%(suffix3)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s\tprev_prev_word=%(prev_prev_word)s\tnext_next_word=%(next_next_word)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "lowercased":w.lower(), "affix1":char_affix(w,1), "suffix1":char_suffix(w,1), "affix2":char_affix(w,2), "suffix2":char_suffix(w,2), "affix3":char_affix(w,3), "suffix3":char_suffix(w,3), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after),"prev_prev_word":prev_word(w_before_before,w_before),"next_next_word":next_word(w_after,w_after_after)})
+        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i"+stripstring+"\tlowercased=%(lowercased)s\taffix1=%(affix1)s\tsuffix1=%(suffix1)s\taffix2=%(affix2)s\tsuffix2=%(suffix2)s\taffix3=%(affix3)s\tsuffix3=%(suffix3)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s\tprev_prev_word=%(prev_prev_word)s\tnext_next_word=%(next_next_word)s\tclusterid=%(clusterid)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "lowercased":w.lower(), "affix1":char_affix(w,1), "suffix1":char_suffix(w,1), "affix2":char_affix(w,2), "suffix2":char_suffix(w,2), "affix3":char_affix(w,3), "suffix3":char_suffix(w,3), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after),"prev_prev_word":prev_word(w_before_before,w_before),"next_next_word":next_word(w_after,w_after_after),"clusterid":clusterid(w)})
 
     return feats_per_position
 
@@ -165,6 +165,22 @@ def char_suffix(t,x):
     length = len(t)
     last = length-x
     return t[last:]
+
+def clusterid(w):
+    print w
+    f = open('50mpaths2.txt', 'r')
+    if w.isalnum():
+        w.strip()
+        clusterid = re.findall(r'([0-1]+)(\s+)(%s)(\s+)([0-9]+)(\s+)' % w, f.read(),flags=re.IGNORECASE)
+        try:
+            clusterid = clusterid[0][0]
+        except IndexError:
+            clusterid = 0
+    else:
+        clusterid = 1000110
+    print clusterid
+    return clusterid
+
 
 def extract_features_for_file(input_file, output_file):
     """This runs the feature extractor on input_file, and saves the output to
