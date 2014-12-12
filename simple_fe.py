@@ -167,18 +167,19 @@ def char_suffix(t,x):
     return t[last:]
 
 def clusterid(w):
-    print w
     f = open('50mpaths2.txt', 'r')
     if w.isalnum():
         w.strip()
-        clusterid = re.findall(r'([0-1]+)(\s+)(%s)(\s+)([0-9]+)(\s+)' % w, f.read(),flags=re.IGNORECASE)
+        #clusterid = re.findall(r'([0-1]+)(\s+)(%s)(\s+)([0-9]+)(\s+)' % w, f.read(),flags=re.IGNORECASE)
+        clusterid = re.findall(r'([0-1]+)(\s+)(%s)(\s+)([0-9]+)(\s+)' % w, f.read())
         try:
             clusterid = clusterid[0][0]
         except IndexError:
             clusterid = 0
     else:
         clusterid = 1000110
-    print clusterid
+
+    f.close()
     return clusterid
 
 
