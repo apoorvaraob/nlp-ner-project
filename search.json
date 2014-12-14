@@ -1,4 +1,8 @@
-#https://www.googleapis.com/freebase/v1/search?query=robot&indent=true&filter=(all%20type:animation)
+
+Appendix: RESULTS OF CALLS TO THE FREEBASE API
+
+https://www.googleapis.com/freebase/v1/search?query=robot&indent=true&filter=(all%20type:animation)
+
 {
   "status": "200 OK",
   "result": [

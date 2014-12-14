@@ -6,14 +6,14 @@ import nltk
 
 def read_file(filename):
     r"""Assume the file is the format
-    word \t tag
-    word \t tag
-    [[blank line separates sentences]]
-    
-    This function reads the file and returns a list of sentences.  each
-    sentence is a pair (tokens, tags), each of which is a list of strings of
-    the same length.
-    """
+        word \t tag
+        word \t tag
+        [[blank line separates sentences]]
+        
+        This function reads the file and returns a list of sentences.  each
+        sentence is a pair (tokens, tags), each of which is a list of strings of
+        the same length.
+        """
     sentences = open(filename).read().strip().split("\n\n")
     ret = []
     for sent in sentences:
@@ -32,9 +32,9 @@ def extract_features_for_sentence1(tokens):
     N = len(tokens)
     feats_per_position = [set() for i in range(N)]
     for t in range(N):
-
+        
         w = clean_str(tokens[t])
-
+        
         #for context features
         if t > 0:
             w_before = clean_str(tokens[t-1])
@@ -54,24 +54,23 @@ def extract_features_for_sentence1(tokens):
             w_after_after = clean_str(tokens[t+2])
         else:
             w_after_after = "none"
-
-
-
+    
+    
+    
         w = w.decode('utf-8')
         w_before = w_before.decode('utf-8')
         w_after = w_after.decode('utf-8')
         w_before_before = w_before_before.decode('utf-8')
         w_after_after = w_after_after.decode('utf-8')
-
+        
         digitre = re.compile('.*[\d].*')
         
         
         stripstring = ""
         for featureType in ["hashtag", "mention", "retweet","url","symoticon", "apossuffix", "date"]:
             stripstring += "\t" + featureType + "=" + str(strip_feature(featureType, w))
-        
-        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i"+stripstring+"\tlowercased=%(lowercased)s\taffix1=%(affix1)s\tsuffix1=%(suffix1)s\taffix2=%(affix2)s\tsuffix2=%(suffix2)s\taffix3=%(affix3)s\tsuffix3=%(suffix3)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s\tprev_prev_word=%(prev_prev_word)s\tnext_next_word=%(next_next_word)s\tclusterid=%(clusterid)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "lowercased":w.lower(), "affix1":char_affix(w,1), "suffix1":char_suffix(w,1), "affix2":char_affix(w,2), "suffix2":char_suffix(w,2), "affix3":char_affix(w,3), "suffix3":char_suffix(w,3), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after),"prev_prev_word":prev_word(w_before_before,w_before),"next_next_word":next_word(w_after,w_after_after),"clusterid":clusterid(w)})
-
+        feats_per_position[t].add("word=%(word)s\tcap=%(isupper)i\tdigits=%(containsDigit)i"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w))}+stripstring+"\tlowercased=%(lowercased)s\taffix1=%(affix1)s\tsuffix1=%(suffix1)s\taffix2=%(affix2)s\tsuffix2=%(suffix2)s\taffix3=%(affix3)s\tsuffix3=%(suffix3)s\tshape=%(shape)s\tpostag=%(postag)s\tpostag_context=%(postag_context)s\tprev_word=%(prev_word)s\tnext_word=%(next_word)s\tprev_prev_word=%(prev_prev_word)s\tnext_next_word=%(next_next_word)s\tclusterid=%(clusterid)s"%{"word":w, "isupper":w[0].isupper(), "containsDigit":bool(digitre.search(w)), "lowercased":w.lower(), "affix1":char_affix(w,1), "suffix1":char_suffix(w,1), "affix2":char_affix(w,2), "suffix2":char_suffix(w,2), "affix3":char_affix(w,3), "suffix3":char_suffix(w,3), "shape":shape_feature(w), "postag":pos_tag(w), "postag_context":pos_tag_context(w_before,w,w_after),"prev_word":prev_word(w_before,w),"next_word":next_word(w,w_after),"prev_prev_word":prev_word(w_before_before,w_before),"next_next_word":next_word(w_after,w_after_after),"clusterid":clusterid(w)})
+    
     return feats_per_position
 
 extract_features_for_sentence = extract_features_for_sentence1
@@ -167,25 +166,25 @@ def char_suffix(t,x):
     return t[last:]
 
 def clusterid(w):
+    #print w
     f = open('50mpaths2.txt', 'r')
     if w.isalnum():
         w.strip()
-        #clusterid = re.findall(r'([0-1]+)(\s+)(%s)(\s+)([0-9]+)(\s+)' % w, f.read(),flags=re.IGNORECASE)
-        clusterid = re.findall(r'([0-1]+)(\s+)(%s)(\s+)([0-9]+)(\s+)' % w, f.read())
+        clusterid = re.findall(r'([0-1]+)(\s+)(%s)(\s+)([0-9]+)(\s+)' % w, f.read(),flags=re.IGNORECASE)
         try:
             clusterid = clusterid[0][0]
         except IndexError:
             clusterid = 0
     else:
         clusterid = 1000110
-
+    #print clusterid
     f.close()
     return clusterid
 
 
 def extract_features_for_file(input_file, output_file):
     """This runs the feature extractor on input_file, and saves the output to
-    output_file."""
+        output_file."""
     #UTF8Writer = codecs.getwriter('utf8')
     #sys.stdout = UTF8Writer(sys.stdout)
     sents = read_file(input_file)
@@ -203,4 +202,3 @@ def extract_features_for_file(input_file, output_file):
 extract_features_for_file("train.txt", "train.feats")
 #extract_features_for_file("dev.txt", "dev.feats")
 extract_features_for_file("test_nolabels.txt", "test_nolabels.feats")
-
